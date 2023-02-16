@@ -1,7 +1,3 @@
-* Complete the documentation
-
-* Invite players to discord
-
 * Disable the crosshair
 
 * Add config files to repository
