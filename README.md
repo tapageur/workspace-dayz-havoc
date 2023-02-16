@@ -8,16 +8,19 @@
 
 ## Contact
 
-* email
-
-## Discord
+* Discord https://discord.gg/ArxF7sdK
+* Email: fanclub@tapageur.org
 
 ## Paypal
 
-* insert my paypal address
+Server ain't free so any contribution to keep it running would be appreciated.
+
+* Email: paypal@tapageur.org?
 
 ## Index
 
 * rules
 * mods
+* todos
+* config files
 
