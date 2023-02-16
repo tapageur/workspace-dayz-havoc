@@ -28,11 +28,11 @@ This section will document the details about the mods, what it does, how to use 
 
 ### Airdrop-Upgraded
 
-TBD
+WIP: Still have to see if this works properly.
 
 ### Building Fortifications
 
-TBD
+WIP: Still have to see if this works properly.
 
 ### CF
 
@@ -87,8 +87,8 @@ From the Steam Workshop page for the mod, here are the things this mod provide:
 * Better braking
 * Better torque in offroad vehicles (Ada & Humvee)
 * Can open inventory in car
-- Can see car's inventory while in vehicle (trunk must be open)
-- Can use some items in car like: food, drink, others
+* Can see car's inventory while in vehicle (trunk must be open)
+* Can use some items in car like: food, drink, others
 
 You can repair your cars:
 * Blowtorch can repair parts, including bumpers, denders and reflectors (from Ruined)
@@ -118,7 +118,7 @@ You can repair your cars:
 
 ### Zen's Immersive Login
 
-TBD
+To make it a little more immersive, when a player logs in, they will slowly open their eyes while lying down.
 
 ### ZomBerry Admin Tools
 
