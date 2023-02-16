@@ -4,6 +4,10 @@ Here we will keep all the configuration files changes for the server.
 
 ## Index
 
+### command-line.cfg
+
+This file contains the informations to recreate the custom command line to load the mods on the server.
+
 ### serverDZ_By_HostHvoc.cfg
 
 This file contains the basic configuration of the server like day/night acceleration, maps (Chernarus/Livonia) and passwords.
