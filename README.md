@@ -26,4 +26,5 @@ Server ain't free so any contribution to keep it running would be appreciated.
 * [Rules](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/rules.md)
 * [Mods](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/mods-infos.md)
   * [Mods Keybinding](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/mods-keybinding.md)
+* [Tools](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/tools.md)
 * [Todos](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/todos.md)
