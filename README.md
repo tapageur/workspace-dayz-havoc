@@ -12,6 +12,10 @@
 
 ## Discord
 
+## Paypal
+
+* insert my paypal address
+
 ## Index
 
 * rules
