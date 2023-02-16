@@ -24,7 +24,7 @@ Here is the list of mods installed on the server and link to their respective pa
 
 ## Details by mods
 
-This section will document the details about the mods, what it does, how to use it and link to their workshop page for more informations:
+This section will document the details about the mods, what it does, how to use it and link to their workshop page for more informations
 
 ### Airdrop-Upgraded
 
