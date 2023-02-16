@@ -8,6 +8,8 @@ Simple enough, be respectful of other players. We all know the basic rules of ne
 
 Unless asked by a player, it's forbidden to kill another player.
 
+> It was all fun and games until someone lost an eye...
+
 If by accident you kill another player, you are responsible of:
 * Taking care of the items the other player was carrying so they don't despawn and to ensure it's safe return to it's owner
 * Help the player to travel safe to the location of its death, or any other location agreed on
