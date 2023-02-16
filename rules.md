@@ -1,8 +1,8 @@
 # Rules
 
-## Be respectfull
+## Be respectful
 
-TBD
+Simple enough, be respectful of other players. We all the basic rules of netiquette and we are all adults, right?
 
 ## No player kill
 
