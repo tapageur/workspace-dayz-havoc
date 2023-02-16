@@ -10,4 +10,6 @@
     * Crosshair is disabled
     * Nights are accelerated to 48x
     * Maximum ping is 400
-    
+
+* Add daily reboot
+ * Document it so players know
