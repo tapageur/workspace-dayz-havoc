@@ -83,7 +83,20 @@ Choose where you will spawn on the map with a death marker on the map.
 
 ### Doc's Car Fixes
 
-TBD
+From the Steam Workshop page for the mod, here are the things this mod provide:
+* Better braking
+* Better torque in offroad vehicles (Ada & Humvee)
+* Can open inventory in car
+- Can see car's inventory while in vehicle (trunk must be open)
+- Can use some items in car like: food, drink, others
+
+You can repair your cars:
+* Blowtorch can repair parts, including bumpers, denders and reflectors (from Ruined)
+* Blowtorch can repair chassis (from Badly Damaged up to Worn)
+* Epoxy can fix bumpers, fenders and reflectors (up to Pristine)
+* Epoxy can also fix rusted parts
+* Pipewrench can repair parts (from Badly Damaged up to Worn)
+* Wrench can repair engine and bumper (up to Pristine)
 
 ### DMS-Auto-Run-Mod
 
