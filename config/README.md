@@ -1,4 +1,4 @@
-# Config (Work in progress)
+# Config
 
 Here we will keep all the configuration files changes for the server.
 
@@ -16,9 +16,10 @@ Modifications:
 * `disableCrosshair` was modified to `1` (disabled)
 * `serverTimeAcceleration` was modified to `1`
 * `serverNightTimeAcceleration` was modified to `48`
-* `loginQueueConcurrentPlayers` was modified to `3`
+* `loginQueueConcurrentPlayers` was modified to `5`
 * `loginQueueMaxPlayers` was modified to `15`
 * `respawnTime` was modified to `5`
+* `motd` line was modified to `motd[] = {"https://github.com/tapageur/workspace-dayz-havoc"};`
 * `maxPing` was modified to `400`
 
 ### types.xml
