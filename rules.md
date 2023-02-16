@@ -20,4 +20,3 @@ please ask the player
 
 please let me be in control of who join the server
 simply ask me before sending the password to new people
-
