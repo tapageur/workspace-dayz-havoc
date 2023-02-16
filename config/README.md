@@ -24,7 +24,4 @@ Modifications:
 
 ### types.xml
 
-This file contains the basic objects configuration for the map. We kept a backup of this file in this folder.
-
-Modifications:
-* None (so far)
+This file contains the basic objects configuration for the map. We kept a backup of this file in this folder. There is no need to keep a list of modifications for this file, we will use version control and the file in this folder.
