@@ -2,7 +2,7 @@
 
 ## Listing
 
-Here is the list of mods intalled on the server and link to their respective pages in Steam Workshop:
+Here is the list of mods installed on the server and link to their respective page in Steam Workshop:
 
 * [Airdrop-Upgraded](https://steamcommunity.com/sharedfiles/filedetails/?id=1870524790)
 * [Building Fortifications](https://steamcommunity.com/sharedfiles/filedetails/?id=2670506982)
