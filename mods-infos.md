@@ -36,25 +36,33 @@ TBD
 
 ### CF
 
-TBD
+* `Community Framework` mod is required for a lot of mods and is required to be installed on a server fresh wipe. 
+* It's required for the `DayZ Expansion` mods.
 
 ### Dabs Framework
 
-TBD
+It's required for the `DayZ Expansion` mods.
 
 ### DayZ-Expansion-Core
 
-TBD
+It's required for the `DayZ Expansion` mods installed in this server.
 
 ### DayZ-Expansion-Book
 
-TBD
+`DayZ Expansion Book` add into the game a virtual book which can be used by other mods to add more pages for various uses. It's required for the `DayZ Expansion Groups` mod.
 
 ### DayZ-Expansion-Groups
 
-TBD
+Add the ability to create groups with your friends and it's used in combination with another mod, see `DayZ-Expansion-Navigation` for more details.
 
 ### DayZ-Expansion-Navigation
+
+Introduce to the game map markers, compass hud and a GPS. 
+
+Used in combination with `DayZ-Expansion-Groups`, it allow players to:
+* Create group markers
+* Ping locations
+* See each others location on the map and ingame
 
 | Key binding | Description |
 |-------------|-------------|
@@ -63,15 +71,15 @@ TBD
 
 ### DayZ-Expansion-Name-Tags
 
-TBD
+Allow players to see the name of another survivor.
 
 ### DayZ-Expansion-Market
 
-TBD
+WIP: Still have to see if this works properly.
 
 ### DayZ-Expansion-Spawn-Selection
 
-TBD
+Choose where you will spawn on the map with a death marker on the map.
 
 ### Doc's Car Fixes
 
