@@ -6,21 +6,21 @@ Simple enough, be respectful of other players. We all the basic rules of netique
 
 ## No player kill
 
-you are responsible if of taking care of the items the other player was carrying and to return it to the player.
+Unless asked by a player, it's forbidden to kill another player.
 
-if you kill someone, you have to help him get back on track (getting back to his stuff and what he was doing)
-
-unless asked by the player
+If by accident you kill another player, you are responsible of:
+* Taking care of the items the other player was carrying and to ensure it's safe return to it's owner. 
+* Help the player to travel safe to the location of its death.
 
 ## No stealing from other players
 
-please ask the player
+* If by any chance you find another player base or vehicules, respect their property.
+* If you need something another player has in its stash, please ask them if you can take it.
 
 ## Don't share the server's password
 
-please let me be in control of who join the server
-simply ask me before sending the password to new people
+To help me manage our community and who has the server's password, please let me know if you would like to invite a new player to our community. This will help me ensure all the player the right informations and maintain a list of people in case the server's password change.
 
 ## Languages
 
-* FR/EN in-game + discord
+We want to be able to moderate (if needed) the communication in-game and over Discord. For this reason the communications are accepted in french and english only.
