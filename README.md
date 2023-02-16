@@ -22,7 +22,7 @@ Server ain't free so any contribution to keep it running would be appreciated.
 
 ## Index
 
-* [Config]()
+* [Config]() (To be added)
 * [Rules](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/rules.md)
 * [Mods](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/mods-infos.md)
 * [Todos](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/todos.md)
