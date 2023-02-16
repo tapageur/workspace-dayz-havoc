@@ -13,3 +13,5 @@
 * Link to map not in game
 
 * Remove the temp.txt from the folders
+
+* Changes passwords
