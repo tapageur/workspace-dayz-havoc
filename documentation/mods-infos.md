@@ -122,7 +122,7 @@ To make it a little more immersive, when a player logs in, they will slowly open
 
 ### ZomBerry Admin Tools
 
-At the momment, this mod if only available to the server administrator.
+At the moment, this mod if only available to the server administrator.
 
 | Key binding | Description |
 |-------------|-------------|
