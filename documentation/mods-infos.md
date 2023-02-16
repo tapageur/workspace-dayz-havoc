@@ -51,6 +51,10 @@ It's required for the `DayZ Expansion` mods installed in this server.
 
 `DayZ Expansion Book` add into the game a virtual book which can be used by other mods to add more pages for various uses. It's required for the `DayZ Expansion Groups` mod.
 
+| Key binding | Description |
+|-------------|-------------|
+| `B`         | Open/close player's book |
+
 ### DayZ-Expansion-Groups
 
 Add the ability to create groups with your friends and it's used in combination with another mod, see `DayZ-Expansion-Navigation` for more details.
