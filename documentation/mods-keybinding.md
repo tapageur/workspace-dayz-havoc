@@ -6,6 +6,7 @@ If you discover undocumented keybinding, please report them so we can improve th
 
 | Key binding | Description |
 |-------------|-------------|
+| `B`         | Open/close player's book |
 | `M`         | Toggle on/off the map |
 | `N`         | Toggle on/off the ear plugs |
 | `O`         | Toggle on/off the control menu |
