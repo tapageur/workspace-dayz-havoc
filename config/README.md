@@ -8,7 +8,7 @@ Here we will keep all the configuration files changes for the server.
 
 This file contains the basic configuration of the server like day/night acceleration, maps (Chernarus/Livonia) and passwords.
 
-Modified:
+Modifications:
 * `hostname` was modified to `DayZ QC (Canada) - Learning Community`
 * `password` was modified
 * `passwordAdmin` was modified
@@ -21,5 +21,9 @@ Modified:
 * `respawnTime` was modified to `5`
 * `maxPing` was modified to `400`
 
+### types.xml
 
+This file contains the basic objects configuration for the map. We kept a backup of this file in this folder.
 
+Modifications:
+* None (so far)
