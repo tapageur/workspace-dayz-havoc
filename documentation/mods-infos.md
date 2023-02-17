@@ -36,13 +36,13 @@ WIP: Still have to see if this works properly.
 
 ![Doors fortication](https://github.com/tapageur/workspace-dayz-havoc/blob/main/resources/build-fortifications-doors-resized.jpg)
 
-[Original](https://github.com/tapageur/workspace-dayz-havoc/blob/main/resources/build-fortifications-doors.jpg)
+[Original](https://raw.githubusercontent.com/tapageur/workspace-dayz-havoc/main/resources/build-fortifications-doors.jpg)
 
 #### Windows fortication
 
 ![Windows fortication](https://github.com/tapageur/workspace-dayz-havoc/blob/main/resources/build-fortifications-windows-resized.jpg)
 
-[Original](https://github.com/tapageur/workspace-dayz-havoc/blob/main/resources/build-fortifications-windows.jpg)
+[Original](https://raw.githubusercontent.com/tapageur/workspace-dayz-havoc/main/resources/build-fortifications-windows.jpg)
 
 ### CF
 
