@@ -8,6 +8,7 @@ If you discover undocumented keybinding, please report them so we can improve th
 |-------------|-------------|
 | `B`         | Open/close player's book |
 | `H`         | Ping location, group can see it |
+| `K`         | Toggle on/off in-game 3D markers |
 | `M`         | Toggle on/off the map |
 | `N`         | Toggle on/off the ear plugs |
 | `O`         | Toggle on/off the control menu |
