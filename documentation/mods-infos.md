@@ -32,7 +32,17 @@ WIP: Still have to see if this works properly.
 
 ### Building Fortifications
 
-WIP: Still have to see if this works properly.
+#### Doors fortication
+
+![Doors fortication](https://github.com/tapageur/workspace-dayz-havoc/blob/main/resources/build-fortifications-doors-resized.jpg)
+
+[Original](https://github.com/tapageur/workspace-dayz-havoc/blob/main/resources/build-fortifications-doors.jpg)
+
+#### Windows fortication
+
+![Windows fortication](https://github.com/tapageur/workspace-dayz-havoc/blob/main/resources/build-fortifications-windows-resized.jpg)
+
+[Original](https://github.com/tapageur/workspace-dayz-havoc/blob/main/resources/build-fortifications-windows.jpg)
 
 ### CF
 
