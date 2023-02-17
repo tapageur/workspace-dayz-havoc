@@ -70,6 +70,7 @@ Used in combination with `DayZ-Expansion-Groups`, it allow players to:
 
 | Key binding | Description |
 |-------------|-------------|
+| `H`         | Ping location, group can see it |
 | `M`         | Toggle on/off the map |
 | `*` (keypad)| Toggle on/off display in-game markers |
 
