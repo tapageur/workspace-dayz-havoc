@@ -12,5 +12,4 @@ Before we had the map integrated in-game, we use to consult this website to coor
 
 ![Weapons, Ammos & Magazines Chart (1.19)](https://github.com/tapageur/workspace-dayz-havoc/blob/main/resources/dayz-weapons-chart-1-19-resized.png)
 
-* [Download original](https://github.com/tapageur/workspace-dayz-havoc/blob/main/resources/dayz-weapons-chart-1-19.png)
-* [RAW](https://raw.githubusercontent.com/tapageur/workspace-dayz-havoc/main/resources/dayz-weapons-chart-1-19.png)
+[Original](https://raw.githubusercontent.com/tapageur/workspace-dayz-havoc/main/resources/dayz-weapons-chart-1-19.png)
