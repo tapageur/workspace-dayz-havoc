@@ -99,6 +99,10 @@ Allow players to see the name of another survivor.
 
 WIP: Still have to see if this works properly.
 
+This mod requires a bit of configuration. Here is the link for the file download and a video that explains it all.
+* [Download](https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/archive/refs/heads/master.zip)
+* [Video](https://youtu.be/xwqJ0nIiYb0) (Note: Skip the part of the video talking about a init.c, this is not required anymore)
+
 ### DayZ-Expansion-Spawn-Selection
 
 Choose where you will spawn on the map with a death marker on the map.
