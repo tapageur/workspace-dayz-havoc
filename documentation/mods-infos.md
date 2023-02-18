@@ -5,6 +5,7 @@
 Here is the list of mods installed on the server and link to their respective page in Steam Workshop:
 
 * [Airdrop-Upgraded](https://steamcommunity.com/sharedfiles/filedetails/?id=1870524790)
+* [BaseBuildingPlus](https://steamcommunity.com/sharedfiles/filedetails/?id=1710977250&searchtext=BaseBuildingPlus)
 * [Building Fortifications](https://steamcommunity.com/sharedfiles/filedetails/?id=2670506982)
 * [CF](https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036)
 * [Dabs Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)
@@ -28,6 +29,10 @@ Here is the list of mods installed on the server and link to their respective pa
 This section will document the details about the mods, what it does, how to use it and link to their workshop page for more informations
 
 ### Airdrop-Upgraded
+
+WIP: Still have to see if this works properly.
+
+### BaseBuildingPlus
 
 WIP: Still have to see if this works properly.
 
