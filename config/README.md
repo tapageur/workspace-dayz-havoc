@@ -4,6 +4,10 @@ Here we will keep all the configuration files changes for the server.
 
 ## Index
 
+### cfgeconomycore.xml
+
+This file was modified to add details for the `DayZ-Expansion-Market` mod.
+
 ### command-line.md
 
 This file contains the informations to recreate the custom command line to load the mods on the server.
