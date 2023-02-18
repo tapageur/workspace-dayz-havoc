@@ -17,6 +17,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [DayZ-Expansion-Spawn-Selection](https://steamcommunity.com/sharedfiles/filedetails/?id=2804241648)
 * [Doc's Car Fixes](https://steamcommunity.com/sharedfiles/filedetails/?id=2886222035)
 * [DMS-Auto-Run-Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2518247321)
+* [Dogtags](https://steamcommunity.com/sharedfiles/filedetails/?id=2303554682)
 * [Ear-Plugs](https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788)
 * [MiniMap](https://steamcommunity.com/sharedfiles/filedetails/?id=2381686295)
 * [Zen's Immersive Login](https://steamcommunity.com/sharedfiles/filedetails/?id=2924719512)
@@ -119,6 +120,13 @@ You can repair your cars:
 | Key binding | Description |
 |-------------|-------------|
 | `+` (keypad)| Start to auto-run |
+
+### Dogtags
+
+- Name, tagged date, and blood type (if known by test) are stored on the tag
+- Dogtags can only be taken off of dead players
+- Dogtags can be view on dead or restrained players
+- Names on dogtags are updated when changing your name
 
 ### Ear-Plugs
 
