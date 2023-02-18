@@ -25,7 +25,7 @@ Modifications:
 * `password` was modified
 * `passwordAdmin` was modified
 * `disable3rdPerson` was modified to `1` (disabled)
-* `disableCrosshair` was modified to `1` (disabled)
+* ~~`disableCrosshair` was modified to `1` (disabled)~~
 * `serverTimeAcceleration` was modified to `1`
 * `serverNightTimeAcceleration` was modified to `48`
 * `loginQueueConcurrentPlayers` was modified to `5`
