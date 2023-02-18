@@ -107,6 +107,10 @@ This mod requires a bit of configuration. Here is the link for the file download
 
 Choose where you will spawn on the map with a death marker on the map.
 
+### DayZ-Expansion-Vehicules
+
+Installed at the same time as `DayZ-Expansion-Market`, with the same instructions video.
+
 ### Doc's Car Fixes
 
 From the Steam Workshop page for the mod, here are the things this mod provide:
