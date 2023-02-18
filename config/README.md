@@ -6,7 +6,11 @@ Here we will keep all the configuration files changes for the server.
 
 ### cfgeconomycore.xml
 
-This file was modified to add details for the `DayZ-Expansion-Market` mod.
+This file was modified to add details for the `DayZ-Expansion-Market` mod and the in-gane economy.
+
+### cfgeventsspawns.xml
+
+This file was modified to add details for the `DayZ-Expansion-Market` + `DayZ-Expansion-Market` mod and the in-gane economy.
 
 ### command-line.md
 
