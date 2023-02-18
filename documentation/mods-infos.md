@@ -34,7 +34,7 @@ WIP: Still have to see if this works properly.
 
 ### BaseBuildingPlus
 
-WIP: Still have to see if this works properly.
+[Building Recipes](https://basebuildingplus.fandom.com/wiki/Building_Recipes#Kits)
 
 ### Building Fortifications
 
