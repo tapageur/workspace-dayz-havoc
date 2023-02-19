@@ -9,5 +9,6 @@
   * Blueprint book
   * Flares?
   * Plank?
+  * Wooden Log?
   * See: https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-a-new-Item-to-the-market
 
