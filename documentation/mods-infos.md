@@ -33,7 +33,7 @@ This section will document the details about the mods, what it does, how to use 
 
 ### Airdrop-Upgraded
 
-Catch it up, catch it in!
+Catch it up, catch it in! Flares are calling airdrop at their location.
 
 ### BaseBuildingPlus
 
