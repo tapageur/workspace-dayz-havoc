@@ -7,6 +7,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [Airdrop-Upgraded](https://steamcommunity.com/sharedfiles/filedetails/?id=1870524790)
 * [BaseBuildingPlus](https://steamcommunity.com/sharedfiles/filedetails/?id=1710977250&searchtext=BaseBuildingPlus)
 * [Building Fortifications](https://steamcommunity.com/sharedfiles/filedetails/?id=2670506982)
+* [Better Inspect](https://steamcommunity.com/sharedfiles/filedetails/?id=1940434090)
 * [CF](https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036)
 * [Dabs Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)
 * [DayZ-Expansion-Core](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785308)
@@ -22,6 +23,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [Dogtags](https://steamcommunity.com/sharedfiles/filedetails/?id=2303554682)
 * [Ear-Plugs](https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788)
 * [MiniMap](https://steamcommunity.com/sharedfiles/filedetails/?id=2381686295)
+* [Trolley Kart](https://steamcommunity.com/sharedfiles/filedetails/?id=2221274779)
 * [Zen's Immersive Login](https://steamcommunity.com/sharedfiles/filedetails/?id=2924719512)
 * [ZomBerry Admin Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=1582756848)
 
@@ -36,6 +38,14 @@ WIP: Still have to see if this works properly.
 ### BaseBuildingPlus
 
 [Building Recipes](https://basebuildingplus.fandom.com/wiki/Building_Recipes#Kits)
+
+### Better Inspect
+
+To highlight an item just hover over the item with your mouse and press the configured Button (B as default).
+
+| Key binding | Description |
+|-------------|-------------|
+| `B`         | (When in inventory) Toggle highlight for player better inspection of inventory |
 
 ### Building Fortifications
 
@@ -153,6 +163,21 @@ You can repair your cars:
 | Key binding | Description |
 |-------------|-------------|
 | `\`         | Toggle on/off the minimap |
+
+### Trolley Kart
+
+#### For the Trolley Kart
+* Find trolley, seat, generator, wire and a wrench in the world.
+* Craft the generator with the wrench to make engine and fuel tank.
+* Attach seat, engine, fuel tank and wire to the trolley.
+* Craft the complete trolley junk pile with wrench into the base Trolley Kart.
+* Find and attach wheels, car battery, sparkplug and headlights and have fun.
+
+#### For the Trolley E Kart
+* Find trolley, seat, Motor, wire, Car Battery charger and a wrench in the world.
+* Attach seat, motor, Car Battery charger and wire to the trolley.
+* Craft the complete trolley junk pile with wrench into the base Trolley E Kart.
+* Find and attach wheels, truck battery and headlights and have fun.
 
 ### Zen's Immersive Login
 
