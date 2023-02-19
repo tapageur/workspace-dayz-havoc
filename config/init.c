@@ -83,8 +83,8 @@ class CustomMission: MissionServer
 
 			SetRandomHealth( itemEnt );
       
-    	// Custom adding the Blueprint Book to all players
-      player.GetInventory().CreateInInventory("BBP_Blueprint");
+			// Custom adding the Blueprint Book to all players
+			player.GetInventory().CreateInInventory("BBP_Blueprint");
 		}
 		
 		itemClothing = player.FindAttachmentBySlotName( "Legs" );
