@@ -14,5 +14,6 @@ If you discover undocumented keybinding, please report them so we can improve th
 | `N`         | Toggle on/off the ear plugs |
 | `O`         | Toggle on/off the control menu |
 | `\`         | Toggle on/off the minimap |
+| `Delete`    | Remove the ping location |
 | `*` (keypad)| Toggle on/off display in-game markers |
 | `+` (keypad)| Start to auto-run |
