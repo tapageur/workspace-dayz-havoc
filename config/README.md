@@ -10,7 +10,7 @@ This file was modified to add details for the `DayZ-Expansion-Market` mod and th
 
 ### cfgeventsspawns.xml
 
-This file was modified to add details for the `DayZ-Expansion-Market` + `DayZ-Expansion-Market` mod and the in-gane economy.
+This file was modified to add details for the `DayZ-Expansion-Market` + `DayZ-Expansion-Vehicules` mod and the in-gane economy.
 
 ### command-line.md
 
