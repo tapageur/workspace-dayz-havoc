@@ -102,6 +102,7 @@ Used in combination with `DayZ-Expansion-Groups`, it allow players to:
 | `H`         | Ping location, group can see it |
 | `K`         | Toggle on/off in-game 3D markers |
 | `M`         | Toggle on/off the map |
+| `Delete`    | Remove the ping location |
 | `*` (keypad)| Toggle on/off display in-game markers |
 
 ### DayZ-Expansion-Name-Tags
