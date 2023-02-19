@@ -16,6 +16,10 @@ This file was modified to add details for the `DayZ-Expansion-Market` + `DayZ-Ex
 
 This file contains the informations to recreate the custom command line to load the mods on the server.
 
+### init.c
+
+Modified to make every player spawn with a Base Building Blueprint Book.
+
 ### serverDZ_By_HostHvoc.cfg
 
 This file contains the basic configuration of the server like day/night acceleration, maps (Chernarus/Livonia) and passwords.
