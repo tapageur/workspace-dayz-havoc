@@ -20,6 +20,8 @@ This file contains the informations to recreate the custom command line to load 
 
 Modified to make every player spawn with a Base Building Blueprint Book.
 
+[Video](https://www.youtube.com/watch?v=Ck2IIHMEVqY)
+
 ### serverDZ_By_HostHvoc.cfg
 
 This file contains the basic configuration of the server like day/night acceleration, maps (Chernarus/Livonia) and passwords.
