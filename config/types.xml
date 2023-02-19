@@ -4834,7 +4834,7 @@
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>720</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4844,7 +4844,7 @@
         <nominal>0</nominal>
         <lifetime>3</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8150,7 +8150,7 @@
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>720</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13103,7 +13103,7 @@
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>720</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13133,7 +13133,7 @@
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>720</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15419,7 +15419,7 @@
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>720</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17980,7 +17980,7 @@
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>720</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
