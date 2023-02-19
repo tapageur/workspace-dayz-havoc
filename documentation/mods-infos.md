@@ -33,7 +33,7 @@ This section will document the details about the mods, what it does, how to use 
 
 ### Airdrop-Upgraded
 
-WIP: Still have to see if this works properly.
+Catch it up, catch it in!
 
 ### BaseBuildingPlus
 
@@ -110,8 +110,6 @@ Used in combination with `DayZ-Expansion-Groups`, it allow players to:
 Allow players to see the name of another survivor.
 
 ### DayZ-Expansion-Market
-
-WIP: Still have to see if this works properly.
 
 This mod requires a bit of configuration. Here is the link for the file download and a video that explains it all.
 * [Download](https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/archive/refs/heads/master.zip)
