@@ -6,6 +6,7 @@ If you discover undocumented keybinding, please report them so we can improve th
 
 | Key binding | Description |
 |-------------|-------------|
+| `B`         | (When in inventory) Toggle highlight for player better inspection of inventory |
 | `B`         | Open/close player's book |
 | `H`         | Ping location, group can see it |
 | `K`         | Toggle on/off in-game 3D markers |
