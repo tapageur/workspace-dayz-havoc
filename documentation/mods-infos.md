@@ -37,6 +37,8 @@ WIP: Still have to see if this works properly.
 
 ### BaseBuildingPlus
 
+All player spawns with a Base Building Blueprint Book for allow them to craft a workbench and get started with building on the map.
+
 [Building Recipes](https://basebuildingplus.fandom.com/wiki/Building_Recipes#Kits)
 
 ### Better Inspect
