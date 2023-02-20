@@ -9,6 +9,7 @@
 
 * How to add items to the traders
   * Blueprint book
+  * Code lock
   * Flares?
   * Plank?
   * Wooden Log?
