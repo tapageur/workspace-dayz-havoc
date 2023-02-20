@@ -11,6 +11,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [CF](https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036)
 * [Community-Online-Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=1564026768)
 * [Dabs Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)
+* [DayZ-Expansion-AI](https://steamcommunity.com/sharedfiles/filedetails/?id=2792982069)
 * [DayZ-Expansion-Animations](https://steamcommunity.com/workshop/filedetails/?id=2793893086)
 * [DayZ-Expansion-Book](https://steamcommunity.com/sharedfiles/filedetails/?id=2572324799)
 * [DayZ-Expansion-Core](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785308)
@@ -19,6 +20,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [DayZ-Expansion-Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=2792984722)
 * [DayZ-Expansion-Name-Tags](https://steamcommunity.com/sharedfiles/filedetails/?id=2576460232)
 * [DayZ-Expansion-Market](https://steamcommunity.com/sharedfiles/filedetails/?id=2572328470)
+* [DayZ-Expansion-Quests](https://steamcommunity.com/sharedfiles/filedetails/?id=2828486817)
 * [DayZ-Expansion-Spawn-Selection](https://steamcommunity.com/sharedfiles/filedetails/?id=2804241648)
 * [DayZ-Expansion-Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785437)
 * [Doc's Car Fixes](https://steamcommunity.com/sharedfiles/filedetails/?id=2886222035)
@@ -86,6 +88,10 @@ This [link](https://pingperfect.com/index.php/knowledgebase/400/DayZ--How-To-Ins
 
 It's required for the `DayZ Expansion` mods.
 
+### ### DayZ-Expansion-AI
+
+Optional mod for `DayZ-Expansion-Quests`.
+
 ### DayZ-Expansion-Animations
 
 It's required for the `DayZ-Expansion-Vehicles` mods installed in this server.
@@ -136,6 +142,10 @@ Allow players to see the name of another survivor.
 This mod requires a bit of configuration. Here is the link for the file download and a video that explains it all.
 * [Download](https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/archive/refs/heads/master.zip)
 * [Video](https://youtu.be/xwqJ0nIiYb0) (Note: Skip the part of the video talking about a init.c, this is not required anymore)
+
+### DayZ-Expansion-Quests
+
+WIP: This is not tested yet...
 
 ### DayZ-Expansion-Spawn-Selection
 
