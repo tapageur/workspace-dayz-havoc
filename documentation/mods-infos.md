@@ -10,9 +10,11 @@ Here is the list of mods installed on the server and link to their respective pa
 * [Better Inspect](https://steamcommunity.com/sharedfiles/filedetails/?id=1940434090)
 * [CF](https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036)
 * [Dabs Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)
-* [DayZ-Expansion-Core](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785308)
+* [DayZ-Expansion-Animations](https://steamcommunity.com/workshop/filedetails/?id=2793893086)
 * [DayZ-Expansion-Book](https://steamcommunity.com/sharedfiles/filedetails/?id=2572324799)
+* [DayZ-Expansion-Core](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785308)
 * [DayZ-Expansion-Groups](https://steamcommunity.com/sharedfiles/filedetails/?id=2792983364)
+* [DayZ-Expansion-Licensed](https://steamcommunity.com/workshop/filedetails/?id=2116157322)
 * [DayZ-Expansion-Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=2792984722)
 * [DayZ-Expansion-Name-Tags](https://steamcommunity.com/sharedfiles/filedetails/?id=2576460232)
 * [DayZ-Expansion-Market](https://steamcommunity.com/sharedfiles/filedetails/?id=2572328470)
@@ -72,9 +74,9 @@ To highlight an item just hover over the item with your mouse and press the conf
 
 It's required for the `DayZ Expansion` mods.
 
-### DayZ-Expansion-Core
+### DayZ-Expansion-Animations
 
-It's required for the `DayZ Expansion` mods installed in this server.
+It's required for the `DayZ-Expansion-Vehicules` mods installed in this server.
 
 ### DayZ-Expansion-Book
 
@@ -84,9 +86,17 @@ It's required for the `DayZ Expansion` mods installed in this server.
 |-------------|-------------|
 | `B`         | Open/close player's book |
 
+### DayZ-Expansion-Core
+
+It's required for the `DayZ Expansion` mods installed in this server.
+
 ### DayZ-Expansion-Groups
 
 Add the ability to create groups with your friends and it's used in combination with another mod, see `DayZ-Expansion-Navigation` for more details.
+
+### DayZ-Expansion-Licensed
+
+It's required for the `DayZ-Expansion-Vehicules` mods installed in this server.
 
 ### DayZ-Expansion-Navigation
 
