@@ -21483,3 +21483,23 @@
         <category name="tools"/>
     </type>
 <!-- THIS IS JUST AN EXAMPLE BUT THESE ARE THE DEFAULT CLASS NAMES (these are for wallpapers, plasters and carpets, PLEASE SET THEM UP ON HOW YOU WANT THEM TO SPAWN!!!!-->
+    
+    <!--
+        CodeLock
+        Add into types.xml to get CodeLocks to spawn
+        Make sure you insert this into the types and don't replace it!
+     -->
+    <type name="CodeLock">
+        <nominal>80</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <!-- End: CodeLock -->
