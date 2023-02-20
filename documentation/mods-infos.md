@@ -73,7 +73,7 @@ To highlight an item just hover over the item with your mouse and press the conf
 
 ### Community-Online-Tools
 
-WIP: TO be verified...
+This [link](https://pingperfect.com/index.php/knowledgebase/400/DayZ--How-To-Install-Community-Online-Tools-and-CF-Admin-Tools.html) helped me figured it out.
 
 | Key binding | Description |
 |-------------|-------------|
