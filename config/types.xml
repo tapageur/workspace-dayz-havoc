@@ -4831,7 +4831,7 @@
         <usage name="Village"/>
     </type>
     <type name="CivilianSedan">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>720</restock>
         <min>5</min>
@@ -4841,20 +4841,20 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CivilianSedan_Black">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
+        <nominal>5</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>720</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CivilianSedan_Wine">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
+        <nominal>5</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>720</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8147,7 +8147,7 @@
         <category name="vehiclesparts"/>
     </type>
     <type name="Hatchback_02">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>720</restock>
         <min>5</min>
@@ -8157,20 +8157,20 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Hatchback_02_Black">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
+        <nominal>5</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>720</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Hatchback_02_Blue">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
+        <nominal>5</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>720</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13100,7 +13100,7 @@
         <usage name="Military"/>
     </type>
     <type name="OffroadHatchback">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>720</restock>
         <min>5</min>
@@ -13110,27 +13110,27 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="OffroadHatchback_Blue">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
+        <nominal>5</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>720</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="OffroadHatchback_White">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
+        <nominal>5</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>720</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Offroad_02">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>720</restock>
         <min>5</min>
@@ -15416,7 +15416,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="Sedan_02">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>720</restock>
         <min>5</min>
@@ -15714,10 +15714,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Grey">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
+        <nominal>5</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>720</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15796,10 +15796,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Red">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
+        <nominal>5</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>720</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17977,7 +17977,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Covered">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>3888000</lifetime>
         <restock>720</restock>
         <min>5</min>
@@ -17987,20 +17987,20 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Truck_01_Covered_Blue">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>0</restock>
-        <min>0</min>
+        <nominal>5</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>720</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Truck_01_Covered_Orange">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>0</restock>
-        <min>0</min>
+        <nominal>5</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>720</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21490,10 +21490,10 @@
         Make sure you insert this into the types and don't replace it!
      -->
     <type name="CodeLock">
-        <nominal>80</nominal>
+        <nominal>40</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
