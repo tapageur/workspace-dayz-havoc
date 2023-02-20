@@ -19,7 +19,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [DayZ-Expansion-Name-Tags](https://steamcommunity.com/sharedfiles/filedetails/?id=2576460232)
 * [DayZ-Expansion-Market](https://steamcommunity.com/sharedfiles/filedetails/?id=2572328470)
 * [DayZ-Expansion-Spawn-Selection](https://steamcommunity.com/sharedfiles/filedetails/?id=2804241648)
-* [DayZ-Expansion-Vehicules](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785437)
+* [DayZ-Expansion-Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785437)
 * [Doc's Car Fixes](https://steamcommunity.com/sharedfiles/filedetails/?id=2886222035)
 * [DMS-Auto-Run-Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2518247321)
 * [Dogtags](https://steamcommunity.com/sharedfiles/filedetails/?id=2303554682)
@@ -76,7 +76,7 @@ It's required for the `DayZ Expansion` mods.
 
 ### DayZ-Expansion-Animations
 
-It's required for the `DayZ-Expansion-Vehicules` mods installed in this server.
+It's required for the `DayZ-Expansion-Vehicles` mods installed in this server.
 
 ### DayZ-Expansion-Book
 
@@ -96,7 +96,7 @@ Add the ability to create groups with your friends and it's used in combination 
 
 ### DayZ-Expansion-Licensed
 
-It's required for the `DayZ-Expansion-Vehicules` mods installed in this server.
+It's required for the `DayZ-Expansion-Vehicles` mods installed in this server.
 
 ### DayZ-Expansion-Navigation
 
@@ -129,7 +129,7 @@ This mod requires a bit of configuration. Here is the link for the file download
 
 Choose where you will spawn on the map with a death marker on the map.
 
-### DayZ-Expansion-Vehicules
+### DayZ-Expansion-Vehicles
 
 Installed at the same time as `DayZ-Expansion-Market`, with the same instructions video.
 
