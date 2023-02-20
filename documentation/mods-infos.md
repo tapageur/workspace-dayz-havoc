@@ -78,7 +78,7 @@ WIP: TO be verified...
 | Key binding | Description |
 |-------------|-------------|
 | `Y`         | Open/close player's book |
-| `H`         | This teleports you to the position you are looking at (To be verified, already binded) |
+| `H`         | This teleports you to the position you are looking at (Unbinded: Enter in conflict with `Ping location`) |
 | `Insert`    | Toggle free camera Note: This teleports your player to the position you looked at when exiting out of it |
 | `End`       | Toggles Community Online Tools keybindings on/off |
 
