@@ -9,6 +9,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [Building Fortifications](https://steamcommunity.com/sharedfiles/filedetails/?id=2670506982)
 * [Better Inspect](https://steamcommunity.com/sharedfiles/filedetails/?id=1940434090)
 * [CF](https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036)
+* [Community-Online-Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=1564026768)
 * [Dabs Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)
 * [DayZ-Expansion-Animations](https://steamcommunity.com/workshop/filedetails/?id=2793893086)
 * [DayZ-Expansion-Book](https://steamcommunity.com/sharedfiles/filedetails/?id=2572324799)
@@ -69,6 +70,17 @@ To highlight an item just hover over the item with your mouse and press the conf
 
 * `Community Framework` mod is required for a lot of mods and is required to be installed on a server fresh wipe. 
 * It's required for the `DayZ Expansion` mods.
+
+### Community-Online-Tools
+
+WIP: TO be verified...
+
+| Key binding | Description |
+|-------------|-------------|
+| `Y`         | Open/close player's book |
+| `H`         | This teleports you to the position you are looking at (To be verified, already binded) |
+| `Insert`    | Toggle free camera Note: This teleports your player to the position you looked at when exiting out of it |
+| `End`       | Toggles Community Online Tools keybindings on/off |
 
 ### Dabs Framework
 
