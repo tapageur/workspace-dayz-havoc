@@ -1,3 +1,5 @@
+* Update key binding summary
+
 * Add daily reboot over night
 
 * How to change max deposit money
