@@ -14,17 +14,13 @@
     * Wooden Log?
     * Cement?
     * Mortar?
-  * Components.json
-    * Code lock (1250)
   * Vehicles
-    * Trolley (Electric) Spur_Trolley_E_Kart
     * Trolley (Gaz) Spur_TrolleyKart
   * Vehicle_Parts.json
     * Airdrop Flares (10000)
-    * Trolley (1250) Spur_WonkyTrolley
-    * Trolley Seat (250) Spur_Kart_Seat
-    * Trolley Front Wheel (200) Spur_Kart_Wheel
-    * Trolley Rear Wheel (300) Spur_Kart_WheelRear
+  * Weapons/Parts
+    * SKS
+    * SKS_Bayonet
   * See: https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-a-new-Item-to-the-market
 
 Added to ExpansionMod/Market/Cars.json
@@ -93,3 +89,19 @@ Added to ExpansionMod/Market/Vehicle_Parts.json
             "SpawnAttachments": [],
             "Variants": []
         }
+
+Added to ExpansionMod/Market/Locks.json
+        {
+            "ClassName": "CodeLock",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 25
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+
+
+
