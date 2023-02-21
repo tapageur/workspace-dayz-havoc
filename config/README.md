@@ -17,7 +17,6 @@ Here we will keep all the configuration files changes for the server.
 ### command-line.md
 
 * This file contains the informations to recreate the custom command line to load the mods on the server.
-* [Video](https://www.youtube.com/watch?v=Ck2IIHMEVqY)
 
 ### market folder
 
