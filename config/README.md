@@ -21,7 +21,8 @@ Here we will keep all the configuration files changes for the server.
 
 ### market folder
 
-These files contains all the content added to the respective files in the `DayZ-Expansion-Market`.
+* These files contains all the content added to the respective files in the `DayZ-Expansion-Market`.
+* Locations: HostHavocDayZServer\ExpansionMod\Market\
 
 ### serverDZ_By_HostHvoc.cfg
 
