@@ -46,9 +46,31 @@ Added to ExpansionMod/Market/Cars.json
                 "headlighth7"
             ],
             "Variants": []
-        }
+        }  
         
 Added to ExpansionMod/Market/Vehicle_Parts.json
+        {
+            "ClassName": "Spur_WonkyTrolley",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Spur_Kart_Seat",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 375,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
         {
             "ClassName": "Spur_Kart_Wheel",
             "MaxPriceThreshold": 250,
