@@ -8,19 +8,12 @@
   * See: https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-General-Market-Settings
 
 * How to add items to the traders
-  * BuildingSupplies.json
-    * Blueprint book
-    * Plank?
-    * Wooden Log?
+  * Supplies    
     * Cement?
     * Mortar?
+    * Building Kits?
   * Vehicles
     * Trolley (Gaz) Spur_TrolleyKart
-  * Vehicle_Parts.json
-    * Airdrop Flares (10000)
-  * Weapons/Parts
-    * SKS
-    * SKS_Bayonet
   * See: https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-a-new-Item-to-the-market
 
 Added to ExpansionMod/Market/Cars.json
