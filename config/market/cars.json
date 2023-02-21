@@ -1,0 +1,19 @@
+{
+    "ClassName": "Spur_Trolley_E_Kart",
+    "MaxPriceThreshold": 6750,
+    "MinPriceThreshold": 3250,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 20,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [
+        "Spur_Kart_Wheel",
+        "Spur_Kart_Wheel",
+        "Spur_Kart_WheelRear",
+        "Spur_Kart_WheelRear",
+        "truckbattery",
+        "headlighth7",
+        "headlighth7"
+    ],
+    "Variants": []
+} 
