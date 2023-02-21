@@ -27,7 +27,7 @@
     * Trolley Rear Wheel (300)
   * See: https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-a-new-Item-to-the-market
 
-
+Added to ExpansionMod/Market/Cars.json
         {
             "ClassName": "Spur_Trolley_E_Kart",
             "MaxPriceThreshold": 6750,
