@@ -88,7 +88,18 @@ Added to ExpansionMod/Market/Vehicle_Parts.json
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        }
+        },
+        {
+            "ClassName": "AirdropFlare",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        } 
 
 Added to ExpansionMod/Market/Locks.json
         {
