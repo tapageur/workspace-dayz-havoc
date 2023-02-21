@@ -114,5 +114,16 @@ Added to ExpansionMod/Market/Locks.json
             "Variants": []
         }
 
-
+Added to ExpansionMod/Market/Riffles.json
+        {
+            "ClassName": "sks",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
 
