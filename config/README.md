@@ -6,21 +6,22 @@ Here we will keep all the configuration files changes for the server.
 
 ### cfgeconomycore.xml
 
-This file was modified to add details for the `DayZ-Expansion-Market` mod and the in-gane economy.
+* This file was modified to add details for the `DayZ-Expansion-Market` mod and the in-gane economy.
+* Location: mpmissions\dayzOffline.chernarus\cfgeconomycore.xml
 
 ### cfgeventsspawns.xml
 
-This file was modified to add details for the `DayZ-Expansion-Market` + `DayZ-Expansion-Vehicules` mod and the in-gane economy.
+* This file was modified to add details for the `DayZ-Expansion-Market` + `DayZ-Expansion-Vehicules` mod and the in-gane economy.
+* Location: mpmissions\dayzOffline.chernarus\cfgeconomycore.xml
 
 ### command-line.md
 
-This file contains the informations to recreate the custom command line to load the mods on the server.
+* This file contains the informations to recreate the custom command line to load the mods on the server.
+* [Video](https://www.youtube.com/watch?v=Ck2IIHMEVqY)
 
-### init.c
+### market folder
 
-Modified to make every player spawn with a Base Building Blueprint Book.
-
-[Video](https://www.youtube.com/watch?v=Ck2IIHMEVqY)
+These files contains all the content added to the respective files in the `DayZ-Expansion-Market`.
 
 ### serverDZ_By_HostHvoc.cfg
 
@@ -42,4 +43,5 @@ Modifications:
 
 ### types.xml
 
-This file contains the basic objects configuration for the map. We kept a backup of this file in this folder. There is no need to keep a list of modifications for this file, we will use version control and the file in this folder.
+* This file contains the basic objects configuration for the map. We kept a backup of this file in this folder. There is no need to keep a list of modifications for this file, we will use version control and the file in this folder.
+* Location: mpmissions\dayzOffline.chernarus\types.xml
