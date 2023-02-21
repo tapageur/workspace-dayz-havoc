@@ -14,6 +14,10 @@ We are a small community of friends that loves that game and want to explore and
 
 We use the [HostHavoc](https://hosthavoc.com/) gaming service to run our server.
 
+### Metrics
+
+We use [BattleMetrics](https://www.battlemetrics.com/servers/dayz/18619012) for statistics and metrics.
+
 ## Paypal
 
 Server ain't free so any contribution to keep it running would be appreciated.
