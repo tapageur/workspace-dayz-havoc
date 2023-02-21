@@ -127,3 +127,16 @@ Added to ExpansionMod/Market/Riffles.json
             "Variants": []
         }
 
+
+Added to ExpansionMod/Market/Supplies.json
+        {
+            "ClassName": "BBP_Blueprint",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
