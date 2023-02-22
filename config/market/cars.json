@@ -16,4 +16,19 @@
         "headlighth7"
     ],
     "Variants": []
+},
+{
+    "ClassName": "ExpansionGyrocopter",
+    "MaxPriceThreshold": 1,
+    "MinPriceThreshold": 1,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 20,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [
+        "ExpansionHelicopterBattery",
+        "sparkplug",
+        "headlighth7"
+    ],
+    "Variants": []
 } 
