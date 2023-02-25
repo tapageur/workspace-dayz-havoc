@@ -1,0 +1,88 @@
+{
+    "ClassName": "WaterproofBag_Black",
+    "MaxPriceThreshold": 100,
+    "MinPriceThreshold": 50,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+},
+{
+    "ClassName": "WaterproofBag_Green",
+    "MaxPriceThreshold": 100,
+    "MinPriceThreshold": 50,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+},
+{
+    "ClassName": "WaterproofBag_Orange",
+    "MaxPriceThreshold": 100,
+    "MinPriceThreshold": 50,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+},
+{
+    "ClassName": "WaterproofBag_Yellow",
+    "MaxPriceThreshold": 100,
+    "MinPriceThreshold": 50,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+},
+{
+    "ClassName": "Bear_Beige",
+    "MaxPriceThreshold": 40,
+    "MinPriceThreshold": 20,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+},
+{
+    "ClassName": "Bear_Dark",
+    "MaxPriceThreshold": 40,
+    "MinPriceThreshold": 20,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+},
+{
+    "ClassName": "Bear_Pink",
+    "MaxPriceThreshold": 40,
+    "MinPriceThreshold": 20,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+},
+{
+    "ClassName": "Bear_White",
+    "MaxPriceThreshold": 40,
+    "MinPriceThreshold": 20,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+}
