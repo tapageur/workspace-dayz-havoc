@@ -1,0 +1,32 @@
+{
+    "ClassName": "EyeMask_Black",
+    "MaxPriceThreshold": 100,
+    "MinPriceThreshold": 50,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": [
+        "EyeMask_Blue",
+        "EyeMask_Christmas",
+        "EyeMask_Dead",
+        "EyeMask_NewYears",
+        "EyeMask_Red",
+        "EyeMask_Valentines",
+        "EyeMask_Yellow" 
+    ]
+},
+{
+    "ClassName": "MimeMask_Female",
+    "MaxPriceThreshold": 100,
+    "MinPriceThreshold": 50,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": [
+        "MimeMask_Male"
+    ]
+}
