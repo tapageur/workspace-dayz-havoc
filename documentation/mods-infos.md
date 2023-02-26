@@ -27,6 +27,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [DMS-Auto-Run-Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2518247321)
 * [Dogtags](https://steamcommunity.com/sharedfiles/filedetails/?id=2303554682)
 * [Ear-Plugs](https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788)
+* [GDZ-Crossbow](https://steamcommunity.com/sharedfiles/filedetails/?id=2536349467)
 * [MiniMap](https://steamcommunity.com/sharedfiles/filedetails/?id=2381686295)
 * [Trolley Kart](https://steamcommunity.com/sharedfiles/filedetails/?id=2221274779)
 * [Zen's Immersive Login](https://steamcommunity.com/sharedfiles/filedetails/?id=2924719512)
@@ -190,6 +191,12 @@ You can repair your cars:
 | Key binding | Description |
 |-------------|-------------|
 | `N`         | Toggle on/off the ear plugs |
+
+### GDZ-Crossbow
+
+* 1x ChickenFeather + 1x WoodenStick = 1x ArrowBolt
+* 3x ChickenFeather + 3x WoodenStick = 3x ArrowBolt
+* 5x ChickenFeather + 5x WoodenStick = 5x ArrowBolt
 
 ### MiniMap
 
