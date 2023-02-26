@@ -21078,9 +21078,9 @@
         <category name="food"/>
         <usage name="Farm"/>
     </type>
-</types>
-<!-- BaseBuildingPlus START-->
-	<type name="BBP_Wall_Kit">
+
+    <!-- BaseBuildingPlus START-->
+    <type name="BBP_Wall_Kit">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
@@ -21404,9 +21404,9 @@
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-<!-- BaseBuildingPlus END-->
-<!-- THIS IS JUST AN EXAMPLE START BUT THESE ARE THE DEFAULT CLASS NAMES (these are for wallpapers,plasters and carpets, PLEASE SET THEM UP ON HOW YOU WANT THEM TO SPAWN!!!!-->
-	<type name="BBP_Carpet_1">
+    <!-- BaseBuildingPlus END-->
+    <!-- THIS IS JUST AN EXAMPLE START BUT THESE ARE THE DEFAULT CLASS NAMES (these are for wallpapers,plasters and carpets, PLEASE SET THEM UP ON HOW YOU WANT THEM TO SPAWN!!!!-->
+    <type name="BBP_Carpet_1">
         <nominal>20</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
@@ -21417,7 +21417,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
     </type>
-	<type name="BBP_Carpet_2">
+    <type name="BBP_Carpet_2">
         <nominal>20</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
@@ -21428,7 +21428,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
     </type>
-	<type name="BBP_Plaster_1">
+    <type name="BBP_Plaster_1">
         <nominal>20</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
@@ -21439,7 +21439,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
     </type>
-	<type name="BBP_Plaster_2">
+    <type name="BBP_Plaster_2">
         <nominal>20</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
@@ -21450,7 +21450,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
     </type>
-	<type name="BBP_WallPaper_1">
+    <type name="BBP_WallPaper_1">
         <nominal>20</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
@@ -21461,7 +21461,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
     </type>
-	<type name="BBP_WallPaper_2">
+    <type name="BBP_WallPaper_2">
         <nominal>20</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
@@ -21472,7 +21472,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
     </type>
-	<type name="BBP_WallPaper_Mural_1">
+    <type name="BBP_WallPaper_Mural_1">
         <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
@@ -21483,7 +21483,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
     </type>
-	<type name="BBP_WallPaper_Mural_2">
+    <type name="BBP_WallPaper_Mural_2">
         <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
@@ -21494,13 +21494,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
     </type>
-<!-- THIS IS JUST AN EXAMPLE BUT THESE ARE THE DEFAULT CLASS NAMES (these are for wallpapers, plasters and carpets, PLEASE SET THEM UP ON HOW YOU WANT THEM TO SPAWN!!!!-->
+    <!-- THIS IS JUST AN EXAMPLE BUT THESE ARE THE DEFAULT CLASS NAMES (these are for wallpapers, plasters and carpets, PLEASE SET THEM UP ON HOW YOU WANT THEM TO SPAWN!!!!-->
     
-    <!--
-        CodeLock
-        Add into types.xml to get CodeLocks to spawn
-        Make sure you insert this into the types and don't replace it!
-     -->
+    <!-- CodeLock: Add into types.xml to get CodeLocks to spawn, Make sure you insert this into the types and don't replace it! -->
     <type name="CodeLock">
         <nominal>40</nominal>
         <lifetime>7200</lifetime>
@@ -21515,3 +21511,102 @@
         <usage name="Farm"/>
     </type>
     <!-- End: CodeLock -->
+
+    <!-- Start: Crossbow -->	
+    <type name="Crossbow_Black">
+        <nominal>5</nominal>
+        <lifetime>43200</lifetime>
+        <restock>3600</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+        <usage name="Farm"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="Crossbow_Red">
+        <nominal>5</nominal>
+        <lifetime>43200</lifetime>
+        <restock>3600</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="Crossbow_Blue">
+        <nominal>5</nominal>
+        <lifetime>43200</lifetime>
+        <restock>3600</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="Crossbow_Green">
+        <nominal>5</nominal>
+        <lifetime>43200</lifetime>
+        <restock>3600</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="Crossbow_Leaves">
+        <nominal>5</nominal>
+        <lifetime>43200</lifetime>
+        <restock>3600</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="Crossbow_ArrowBolt">
+        <nominal>10</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="Crossbow_RedpointOptic">
+        <nominal>10</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Hunting" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <!-- END: Crossbow -->
+	
+</types>	
