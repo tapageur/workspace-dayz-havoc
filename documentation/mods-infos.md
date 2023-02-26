@@ -5,6 +5,7 @@
 Here is the list of mods installed on the server and link to their respective page in Steam Workshop:
 
 * [Airdrop-Upgraded](https://steamcommunity.com/sharedfiles/filedetails/?id=1870524790)
+* [Autorun Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2313173630)
 * [BaseBuildingPlus](https://steamcommunity.com/sharedfiles/filedetails/?id=1710977250&searchtext=BaseBuildingPlus)
 * [Building Fortifications](https://steamcommunity.com/sharedfiles/filedetails/?id=2670506982)
 * [Better Inspect](https://steamcommunity.com/sharedfiles/filedetails/?id=1940434090)
@@ -40,6 +41,13 @@ This section will document the details about the mods, what it does, how to use 
 ### Airdrop-Upgraded
 
 Catch it up, catch it in! Flares are calling airdrop at their location.
+
+### Autorun Mod
+
+* Quick double-click `Shift` for sprint
+* Click `Ctrl` to jogging (during action)
+* Quick double-click `Ctrl` to walking (during action)
+* Click `Shift` for return to sprint (during action)
 
 ### BaseBuildingPlus
 
