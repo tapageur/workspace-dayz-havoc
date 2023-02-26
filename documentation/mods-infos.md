@@ -25,7 +25,6 @@ Here is the list of mods installed on the server and link to their respective pa
 * [DayZ-Expansion-Spawn-Selection](https://steamcommunity.com/sharedfiles/filedetails/?id=2804241648)
 * [DayZ-Expansion-Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785437)
 * [Doc's Car Fixes](https://steamcommunity.com/sharedfiles/filedetails/?id=2886222035)
-* [DMS-Auto-Run-Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2518247321)
 * [Dogtags](https://steamcommunity.com/sharedfiles/filedetails/?id=2303554682)
 * [Ear-Plugs](https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788)
 * [GDZ-Crossbow](https://steamcommunity.com/sharedfiles/filedetails/?id=2536349467)
@@ -44,10 +43,12 @@ Catch it up, catch it in! Flares are calling airdrop at their location.
 
 ### Autorun Mod
 
-* Quick double-click `Shift` for sprint
-* Click `Ctrl` to jogging (during action)
-* Quick double-click `Ctrl` to walking (during action)
-* Click `Shift` for return to sprint (during action)
+| Key binding | Description |
+|-------------|-------------|
+| `Shift` (Double-click)| Sprint |
+| `Ctrl` | Jogging (during action) |
+| `Ctrl` (Double-click)| Walking (during action) |
+| `Shift`     | Return to sprint (during action) |
 
 ### BaseBuildingPlus
 
@@ -180,12 +181,6 @@ You can repair your cars:
 * Epoxy can also fix rusted parts
 * Pipewrench can repair parts (from Badly Damaged up to Worn)
 * Wrench can repair engine and bumper (up to Pristine)
-
-### DMS-Auto-Run-Mod
-
-| Key binding | Description |
-|-------------|-------------|
-| `+` (keypad)| Start to auto-run |
 
 ### Dogtags
 
