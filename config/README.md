@@ -41,6 +41,11 @@ Modifications:
 * `motd` line was modified to `motd[] = {"https://github.com/tapageur/workspace-dayz-havoc"};`
 * `maxPing` was modified to `400`
 
+### SpawnSettings.json
+
+* This file contains the custom spawn locations added.
+* Location: mpmissions\dayzOffline.chernarus\expansion\settings\SpawnSettings.json
+
 ### types.xml
 
 * This file contains the basic objects configuration for the map. We kept a backup of this file in this folder. There is no need to keep a list of modifications for this file, we will use version control and the file in this folder.
