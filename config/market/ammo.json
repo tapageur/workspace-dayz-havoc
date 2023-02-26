@@ -1,0 +1,11 @@
+{
+    "ClassName": "Crossbow_ArrowBolt",
+    "MaxPriceThreshold": 12,
+    "MinPriceThreshold": 4,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 10000,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+}
