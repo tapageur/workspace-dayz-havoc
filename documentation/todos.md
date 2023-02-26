@@ -75,22 +75,6 @@ z: 4086.46
             "UseCooldown": 1
         },
         {
-            "Name": "Labry - HQ",
-            "Positions": [
-                [
-                    6910.19,
-                    405.7,
-                    11417.3
-                ],
-                [
-                    6884.55,
-                    405.903,
-                    11414.8
-                ]
-            ],
-            "UseCooldown": 1
-        },
-        {
             "Name": "VH - HQ1",
             "Positions": [
                 [
