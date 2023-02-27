@@ -125,4 +125,20 @@
         ]
     ],
     "UseCooldown": 1
+},
+{
+    "Name": "Community - Tower",
+    "Positions": [
+        [
+            4751.04,
+            173.084,
+            13042.8
+        ],
+        [
+            4789.3,
+            172.754,
+            13042.7
+        ]
+    ],
+    "UseCooldown": 1
 }
