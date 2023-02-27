@@ -7,6 +7,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [Airdrop-Upgraded](https://steamcommunity.com/sharedfiles/filedetails/?id=1870524790)
 * [Autorun Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2313173630)
 * [BaseBuildingPlus](https://steamcommunity.com/sharedfiles/filedetails/?id=1710977250&searchtext=BaseBuildingPlus)
+* [BodyBags](https://steamcommunity.com/sharedfiles/filedetails/?id=2819373632)
 * [Building Fortifications](https://steamcommunity.com/sharedfiles/filedetails/?id=2670506982)
 * [Better Inspect](https://steamcommunity.com/sharedfiles/filedetails/?id=1940434090)
 * [CF](https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036)
@@ -63,6 +64,11 @@ To highlight an item just hover over the item with your mouse and press the conf
 | Key binding | Description |
 |-------------|-------------|
 | `B`         | (When in inventory) Toggle highlight for player better inspection of inventory |
+
+### BodyBags
+
+* Time between player death and the body bag spawning, default: 180 seconds
+* Max lifetime of the bodybag, default: 24 hours
 
 ### Building Fortifications
 
