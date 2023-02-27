@@ -68,7 +68,7 @@ To highlight an item just hover over the item with your mouse and press the conf
 ### BodyBags
 
 * Time between player death and the body bag spawning, default: 180 seconds
-* Max lifetime of the bodybag, default: 24 hours
+* Max lifetime of the bodybag, default: 24 hours (in seconds)
 
 ### Building Fortifications
 
