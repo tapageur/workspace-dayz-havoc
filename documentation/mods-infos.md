@@ -214,6 +214,12 @@ You can repair your cars:
 |-------------|-------------|
 | `\`         | Toggle on/off the minimap |
 
+### MuchStuffPack
+
+Decoration items for the base building.
+
+* All placed kits can be dismantled by Screwdriver, Pliers or Hammers
+
 ### Trolley Kart
 
 #### For the Trolley Kart
