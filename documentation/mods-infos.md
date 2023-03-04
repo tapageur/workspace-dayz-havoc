@@ -15,6 +15,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [Dabs Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)
 * [DayZ-Expansion-AI](https://steamcommunity.com/sharedfiles/filedetails/?id=2792982069)
 * [DayZ-Expansion-Animations](https://steamcommunity.com/workshop/filedetails/?id=2793893086)
+* [DayZ-Expansion-BaseBuilding](https://steamcommunity.com/sharedfiles/filedetails/?id=2792982513)
 * [DayZ-Expansion-Book](https://steamcommunity.com/sharedfiles/filedetails/?id=2572324799)
 * [DayZ-Expansion-Core](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785308)
 * [DayZ-Expansion-Groups](https://steamcommunity.com/sharedfiles/filedetails/?id=2792983364)
@@ -112,6 +113,13 @@ Optional mod for `DayZ-Expansion-Quests`.
 ### DayZ-Expansion-Animations
 
 It's required for the `DayZ-Expansion-Vehicles` mods installed in this server.
+
+### DayZ-Expansion-BaseBuilding
+
+* Tons of new territory flags
+* Raiding server settings
+* Building server settings
+* Territory server settings
 
 ### DayZ-Expansion-Book
 
