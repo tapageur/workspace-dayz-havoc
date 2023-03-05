@@ -21498,10 +21498,10 @@
     
     <!-- CodeLock: Add into types.xml to get CodeLocks to spawn, Make sure you insert this into the types and don't replace it! -->
     <type name="CodeLock">
-        <nominal>40</nominal>
+        <nominal>80</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>50</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
