@@ -7,7 +7,7 @@
   * MaxPartyDepositMoney
   * See: https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-General-Market-Settings
 
-mpmissions\datzOffilein.chernarusplus\expansion\settings\SafeZoneSettings.json
+mpmissions\dayzOffline.chernarusplus\expansion\settings\SafeZoneSettings.json
 
 EnableForceSZCleanup change to 0
 ItemLifetimeInSafeZone change X (seconds)
