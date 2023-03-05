@@ -199,10 +199,10 @@ You can repair your cars:
 
 ### Dogtags
 
-- Name, tagged date, and blood type (if known by test) are stored on the tag
-- Dogtags can only be taken off of dead players
-- Dogtags can be view on dead or restrained players
-- Names on dogtags are updated when changing your name
+* Name, tagged date, and blood type (if known by test) are stored on the tag
+* Dogtags can only be taken off of dead players
+* Dogtags can be view on dead or restrained players
+* Names on dogtags are updated when changing your name
 
 ### Ear-Plugs
 
