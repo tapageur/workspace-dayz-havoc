@@ -33,6 +33,6 @@ Server ain't free so any contribution to keep it running would be appreciated.
 
 * [Config](https://github.com/tapageur/workspace-dayz-havoc/tree/main/config)
 * [Rules](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/rules.md)
-* [Mods](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2023-02-16-chernarus-mods-infos.md)
+* [Mods](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2023-03-16-namalsk-mods-infos.md)
 * [Tools](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/tools.md)
 * [Todos](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/todos.md)
