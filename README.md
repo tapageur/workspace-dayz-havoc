@@ -17,7 +17,7 @@ We use the [HostHavoc](https://hosthavoc.com/) gaming service to run our server.
 ### History
 
 * 2023-02-04 - Chernarus testing phase of Havoc with no special setup
-* [2023-02-16 - Chernarus]()
+* [2023-02-16 - Chernarus](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2023-02-16-chernarus-mods-infos.md)
 
 ### Metrics
 
@@ -33,7 +33,6 @@ Server ain't free so any contribution to keep it running would be appreciated.
 
 * [Config](https://github.com/tapageur/workspace-dayz-havoc/tree/main/config)
 * [Rules](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/rules.md)
-* [Mods](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/mods-infos.md)
-  * [Mods Keybinding](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/mods-keybinding.md)
+* [Mods](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2023-02-16-chernarus-mods-infos.md)
 * [Tools](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/tools.md)
 * [Todos](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/todos.md)
