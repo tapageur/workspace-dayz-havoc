@@ -1,4 +1,4 @@
-# DayZ QC (Canada) - Learning Community
+# DayZ QC (Canada) - Collaborative Community
 
 For the sake of simplicity, all our documentation is english only.
 
