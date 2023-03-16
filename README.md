@@ -14,6 +14,11 @@ We are a small community of friends that loves that game and want to explore and
 
 We use the [HostHavoc](https://hosthavoc.com/) gaming service to run our server.
 
+### History
+
+* 2023-02-04 - Chernarus testing phase of Havoc with no special setup
+* [2023-02-16 - Chernarus]()
+
 ### Metrics
 
 We use [BattleMetrics](https://www.battlemetrics.com/servers/dayz/18619012) for statistics and metrics.
