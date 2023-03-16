@@ -1,6 +1,4 @@
-# Mods Keybinding
-
-
+# 2023-02-16 - Chernarus - Mods Keybinding
 
 This is a summary of all the key binding introduced with the mods installed on the server. 
 
