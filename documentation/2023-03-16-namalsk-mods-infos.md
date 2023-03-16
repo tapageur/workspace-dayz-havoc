@@ -1,6 +1,4 @@
-# WIP
-
-# Mods Informations
+# Namalsk Hardcore - Mods Informations
 
 ## Listing
 
