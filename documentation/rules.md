@@ -2,7 +2,7 @@
 
 ## Be respectful
 
-Simple enough, be respectful of other players. We all know the basic rules of netiquette and we are all adults, right?
+Simple enough, be respectful to other players. We all know the basic rules of netiquette and we are all adults, right?
 
 ## No player kill
 
