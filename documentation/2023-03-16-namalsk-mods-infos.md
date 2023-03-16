@@ -11,6 +11,11 @@ Here is the list of mods installed on the server and link to their respective pa
 * [CF](https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036)
 * [Community-Online-Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=1564026768)
 * [Dabs Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)
+* [DayZ-Expansion-Book](https://steamcommunity.com/sharedfiles/filedetails/?id=2572324799)
+* [DayZ-Expansion-Core](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785308)
+* [DayZ-Expansion-Groups](https://steamcommunity.com/sharedfiles/filedetails/?id=2792983364)
+* [DayZ-Expansion-Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=2792984722)
+* [DayZ-Expansion-Name-Tags](https://steamcommunity.com/sharedfiles/filedetails/?id=2576460232)
 * [Doc's Car Fixes](https://steamcommunity.com/sharedfiles/filedetails/?id=2886222035)
 * [Dogtags](https://steamcommunity.com/sharedfiles/filedetails/?id=2303554682)
 * [Ear-Plugs](https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788)
@@ -55,6 +60,43 @@ This [link](https://pingperfect.com/index.php/knowledgebase/400/DayZ--How-To-Ins
 ### Dabs Framework
 
 It's required for the `DayZ Expansion` mods and other mods.
+
+### DayZ-Expansion-Book
+
+`DayZ Expansion Book` add into the game a virtual book which can be used by other mods to add more pages for various uses. It's required for the `DayZ Expansion Groups` mod.
+
+| Key binding | Description |
+|-------------|-------------|
+| `B`         | Open/close player's book |
+
+### DayZ-Expansion-Core
+
+It's required for the `DayZ Expansion` mods installed in this server.
+
+### DayZ-Expansion-Groups
+
+Add the ability to create groups with your friends and it's used in combination with another mod, see `DayZ-Expansion-Navigation` for more details.
+
+### DayZ-Expansion-Navigation
+
+Introduce to the game map markers, compass hud and a GPS. 
+
+Used in combination with `DayZ-Expansion-Groups`, it allow players to:
+* Create group markers
+* Ping locations
+* See each others location on the map and ingame
+
+| Key binding | Description |
+|-------------|-------------|
+| `H`         | Ping location, group can see it |
+| `K`         | Toggle on/off in-game 3D markers |
+| `M`         | Toggle on/off the map |
+| `Delete`    | Remove the ping location |
+| `*` (keypad)| Toggle on/off display in-game markers |
+
+### DayZ-Expansion-Name-Tags
+
+Allow players to see the name of another survivor.
 
 ### Doc's Car Fixes
 
