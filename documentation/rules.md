@@ -21,7 +21,7 @@ If by accident you kill another player, you are responsible of:
 
 ## Don't share the server's password
 
-To help me manage our community and who has the server's password, please let me know if you would like to invite a new player to our community. This will help me ensure all the player the right informations and maintain a list of people in case the server's password change.
+To help us manage our community and who has the server's password, please let me know if you would like to invite a new player to our community. This will help me ensure all the player the right informations and maintain a list of people in case the server's password change.
 
 ## Languages
 
