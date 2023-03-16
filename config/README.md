@@ -13,7 +13,7 @@ Here we will keep all the configuration files changes for the server.
 This file contains the basic configuration of the server like day/night acceleration, maps (Chernarus/Livonia) and passwords.
 
 Modifications:
-* `hostname` was modified to `DayZ QC (Canada) - Learning Community`
+* `hostname` was modified
 * `password` was modified
 * `passwordAdmin` was modified
 * `disable3rdPerson` was modified to `1` (disabled)
