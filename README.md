@@ -4,7 +4,7 @@ For the sake of simplicity, all our documentation is english only.
 
 ## About
 
-We are a small community of friends that loves that game and want to explore and experiment at our own pace without the pressure of always checking our back for other players. Our community was founded by french speaking players but we are open to evolve with english speaking players.
+We are a small community of friends that loves that game and want to explore and experiment at our own pace without the pressure of always checking our back for other players. Our collaborative community was founded by french speaking players but we are open to evolve with english speaking players.
 
 ## Community 
 
