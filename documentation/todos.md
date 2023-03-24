@@ -6,3 +6,4 @@
 * Change the limit of players?
 * Review the rules?
 * Can we set a welcome message?
+* Map and GPS need in-game to have the in-game map mod?
