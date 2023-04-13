@@ -8,7 +8,7 @@ We are a small community of friends that loves that game and want to explore and
 
 ## Community 
 
-* Discord: https://discord.gg/raKawNjz
+* Discord: https://discord.gg/E9xUuX9RSJ
 
 ## Server
 
