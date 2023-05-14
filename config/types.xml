@@ -20512,7 +20512,7 @@
         <usage name="Farm"/>
     </type>
     <type name="Spur_FoldingShovel">
-        <nominal>6</nominal>
+        <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>2</restock>
         <min>0</min>
@@ -20525,7 +20525,7 @@
         <usage name="Military"/>
     </type>
     <type name="Spur_FoldingShovel_Folded">
-        <nominal>6</nominal>
+        <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>2</min>
