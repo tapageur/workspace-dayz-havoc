@@ -5,6 +5,7 @@
 
 ```
 * Pistol
+* Flashbang
 * Grenade
 {
     "Name": "PVP - Attacker Set",
