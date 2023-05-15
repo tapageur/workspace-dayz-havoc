@@ -4,6 +4,8 @@
 
 
 ```
+* Pistol
+* Grenade
 {
     "Name": "PVP - Attacker Set",
     "ContainerClassName": "SeaChest",
@@ -28,6 +30,8 @@
 ```
 
 ```
+* Pistol
+* Land Mine
 {
     "Name": "PVP - Defender Set",
     "ContainerClassName": "SeaChest",
