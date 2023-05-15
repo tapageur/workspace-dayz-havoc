@@ -6,7 +6,6 @@ Here is the list of mods installed on the server and link to their respective pa
 
 * [Autorun Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2313173630)
 * [BetterStash](https://steamcommunity.com/sharedfiles/filedetails/?id=2710385029)
-* [Building Fortifications](https://steamcommunity.com/sharedfiles/filedetails/?id=2670506982)
 * [CF](https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036)
 * [Community-Online-Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=1564026768)
 * [Dabs Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)
@@ -35,20 +34,6 @@ This section will document the details about the mods, what it does, how to use 
 ### BetterStash
 
 > The mod adds a Plastic Barrel which functions similarly to the barrels in the game already, however you can use a shovel bury it to turn it into a hidden stash, inspired by the hidden caches in Tarkov.
-
-### Building Fortifications
-
-#### Doors fortication
-
-![Doors fortication](https://github.com/tapageur/workspace-dayz-havoc/blob/main/resources/build-fortifications-doors-resized.jpg)
-
-[Original](https://raw.githubusercontent.com/tapageur/workspace-dayz-havoc/main/resources/build-fortifications-doors.jpg)
-
-#### Windows fortication
-
-![Windows fortication](https://github.com/tapageur/workspace-dayz-havoc/blob/main/resources/build-fortifications-windows-resized.jpg)
-
-[Original](https://raw.githubusercontent.com/tapageur/workspace-dayz-havoc/main/resources/build-fortifications-windows.jpg)
 
 ### CF
 
