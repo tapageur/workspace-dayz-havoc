@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<!-- Start: BetterStash -->
+    <type name="PlasticBarrel">
+      <nominal>12</nominal>
+      <min>8</min>
+      <lifetime>3888000</lifetime>
+      <restock>0</restock>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <usage />
+      <value />
+      <category name="containers" />
+      <tag name="industrial" />
+        <tag name="civilian" />
+    </type>
+    <type name="PlasticBarrelStash">
+      <nominal>0</nominal>
+      <min>0</min>
+      <lifetime>3888000</lifetime>
+      <restock>0</restock>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <usage />
+      <value />
+      <category name="containers" />
+    </type>
+    <!-- End: BetterStash -->	
+    <!-- Start: FieldShovelPlus -->
+    <type name="Spur_FoldingShovel">
+        <nominal>8</nominal>
+        <lifetime>7200</lifetime>
+        <restock>2</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
+    </type>
+    <type name="Spur_FoldingShovel_Folded">
+        <nominal>8</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
+    </type>  
+  	<!-- End: FieldShovelPlus -->
+</types>

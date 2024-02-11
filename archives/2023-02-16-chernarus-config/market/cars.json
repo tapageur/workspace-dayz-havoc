@@ -1,0 +1,54 @@
+{
+    "ClassName": "Spur_Trolley_E_Kart",
+    "MaxPriceThreshold": 6750,
+    "MinPriceThreshold": 3250,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 20,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [
+        "Spur_Kart_Wheel",
+        "Spur_Kart_Wheel",
+        "Spur_Kart_WheelRear",
+        "Spur_Kart_WheelRear",
+        "truckbattery",
+        "headlighth7",
+        "headlighth7"
+    ],
+    "Variants": []
+},
+{
+    "ClassName": "Spur_TrolleyKart",
+    "MaxPriceThreshold": 6750,
+    "MinPriceThreshold": 3250,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 20,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [
+        "Spur_Kart_Wheel",
+        "Spur_Kart_Wheel",
+        "Spur_Kart_WheelRear",
+        "Spur_Kart_WheelRear",
+        "carbattery",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7"
+    ],
+    "Variants": []
+},
+{
+    "ClassName": "ExpansionGyrocopter",
+    "MaxPriceThreshold": 1,
+    "MinPriceThreshold": 1,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 20,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [
+        "ExpansionHelicopterBattery",
+        "sparkplug",
+        "headlighth7"
+    ],
+    "Variants": []
+} 

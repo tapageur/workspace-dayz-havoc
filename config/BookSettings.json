@@ -1,5 +1,5 @@
 {
-    "m_Version": 4,
+    "m_Version": 5,
     "EnableStatusTab": 1,
     "EnablePartyTab": 1,
     "EnableServerInfoTab": 1,
@@ -8,6 +8,7 @@
     "EnableBookMenu": 1,
     "CreateBookmarks": 0,
     "ShowHaBStats": 1,
+    "ShowPlayerFaction": 0,
     "RuleCategories": [
         {
             "CategoryName": "Be respectful",
@@ -85,7 +86,7 @@
         },
         {
             "Name": "BattleMetrics",
-            "URL": "https://www.battlemetrics.com/servers/dayz/18619012",
+            "URL": "https://www.battlemetrics.com/servers/dayz/26264670",
             "IconName": "Info",
             "IconColor": -16777216
         }      
@@ -111,7 +112,7 @@
             "CategoryName": "Mod Info",
             "Descriptions": [
                 {
-                    "DescriptionText": "For all the informations about the mods installed, visit this page: https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2023-05-11-melkart-mods-infos.md"
+                    "DescriptionText": "For all the informations about the mods installed, visit this page: https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2024-02-11-chernarus-mods-infos.md"
                 }
             ]
         }
@@ -269,5 +270,6 @@
                 "improvisedsuppressor"
             ]
         }
-    ]
+    ],
+    "EnableCraftingRecipesTab": 1
 }

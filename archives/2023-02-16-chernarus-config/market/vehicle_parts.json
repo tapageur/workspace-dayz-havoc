@@ -1,0 +1,55 @@
+{
+    "ClassName": "Spur_WonkyTrolley",
+    "MaxPriceThreshold": 2000,
+    "MinPriceThreshold": 1000,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+},
+{
+    "ClassName": "Spur_Kart_Seat",
+    "MaxPriceThreshold": 750,
+    "MinPriceThreshold": 375,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+},
+{
+    "ClassName": "Spur_Kart_Wheel",
+    "MaxPriceThreshold": 250,
+    "MinPriceThreshold": 150,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+},
+{
+    "ClassName": "Spur_Kart_WheelRear",
+    "MaxPriceThreshold": 350,
+    "MinPriceThreshold": 225,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+},
+{
+    "ClassName": "AirdropFlare",
+    "MaxPriceThreshold": 10000,
+    "MinPriceThreshold": 10000,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+}

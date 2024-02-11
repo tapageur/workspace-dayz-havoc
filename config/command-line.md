@@ -1,6 +1,6 @@
 # Mods
 
-`@Ear-Plugs;@CF;@Dabs Framework;@Community-Online-Tools;@Autorun Mod;@BetterStash;@Doc's Car Fixes;@Dogtags;@DayZ-Expansion-Book;@DayZ-Expansion-Core;@DayZ-Expansion-Name-Tags;@FieldShovelPlus;@Melkart_Beta`
+`@Ear-Plugs;@CF;@Community-Online-Tools;@Dabs Framework;@Autorun Mod;@DayOne;@DayZ-Expansion-Core;@DayZ-Expansion-Book;@DayZ-Expansion-Groups;@DayZ-Expansion-Name-Tags;@DayZ-Expansion-Navigation;@BetterStash;@Doc's Car Fixes;@FieldShovelPlus;@MuchStuffPack`
 
 # Server Mods
 

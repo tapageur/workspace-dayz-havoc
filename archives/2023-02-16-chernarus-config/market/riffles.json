@@ -1,0 +1,29 @@
+{
+    "ClassName": "sks",
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 450,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [],
+    "Variants": []
+},
+{
+    "ClassName": "Crossbow_Black",
+    "MaxPriceThreshold": 1200,
+    "MinPriceThreshold": 400,
+    "SellPricePercent": -1.0,
+    "MaxStockThreshold": 100,
+    "MinStockThreshold": 10,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [
+        "Crossbow_RedpointOptic"
+    ],
+    "Variants": [
+        "Crossbow_Red",
+        "Crossbow_Blue",
+        "Crossbow_Green",
+        "Crossbow_Leaves"
+    ]
+}
