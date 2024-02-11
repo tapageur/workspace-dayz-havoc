@@ -21,7 +21,7 @@ We use the [HostHavoc](https://hosthavoc.com/) gaming service to run our server.
 * [2023-03-16 - Namalsk Hardcore](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2023-03-16-namalsk-mods-infos.md)
 * [2023-05-11 - Melkart](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2023-05-11-melkart-mods-infos.md)
 * 2023-06-03 - That's all folks!
-* [2024-02-11 - Chernarus](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2024-02-11-chernarus-mods-infos.md)
+* [2024-02-11 - Chernarus](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2024-02-11-chernarus-mods-infos.md) (Still in testing... staty tuned!)
 
 ### Metrics
 
