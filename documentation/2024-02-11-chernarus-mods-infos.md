@@ -7,6 +7,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [Autorun Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2313173630)
 * [BetterStash](https://steamcommunity.com/sharedfiles/filedetails/?id=2710385029)
 * [CF](https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036)
+* [Code Lock](https://steamcommunity.com/sharedfiles/filedetails/?id=1646187754)
 * [Community-Online-Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=1564026768)
 * [Dabs Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)
 * [DayZ-Expansion-Book](https://steamcommunity.com/sharedfiles/filedetails/?id=2572324799)
@@ -39,6 +40,10 @@ This section will document the details about the mods, what it does, how to use 
 
 * `Community Framework` mod is required for a lot of mods and is required to be installed on a server fresh wipe. 
 * It's required for the `DayZ Expansion` mods.
+
+### Code Lock
+
+Code Lock is aimed at simplifying the base combination lock. No longer will you have to scramble to lock a gate that gives access to your base. There are also tons of configurable settings for this mod including logs, raid times, raid settings, client rate limiting and more!
 
 ### Community-Online-Tools
 
