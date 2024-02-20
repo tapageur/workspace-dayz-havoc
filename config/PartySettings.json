@@ -10,19 +10,11 @@
     "ShowDistanceUnderQuickMarkers": 1,
     "ShowNameOnQuickMarkers": 1,
     "CanCreatePartyMarkers": 1,
-<<<<<<< HEAD
     "ShowPartyMemberHUD": 0,
-=======
-    "ShowPartyMemberHUD": 1,
->>>>>>> 5ac8c77ae5ab64d3a2fcf1ec8b64bd6b77663421
     "ShowHUDMemberBlood": 1,
     "ShowHUDMemberStates": 1,
     "ShowHUDMemberStance": 1,
     "ShowPartyMemberMapMarkers": 1,
     "ShowHUDMemberDistance": 1,
     "ForcePartyToHaveTags": 0
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 5ac8c77ae5ab64d3a2fcf1ec8b64bd6b77663421
