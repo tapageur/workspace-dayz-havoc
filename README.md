@@ -23,6 +23,7 @@ We use the [HostHavoc](https://hosthavoc.com/) gaming service to run our server.
 * 2023-06-03 - That's all folks!
 * [2024-02-11 - Chernarus](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2024-02-11-chernarus-mods-infos.md) testing phase
 * [2024-02-14 - Esseker](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2024-02-14-esseker-mods-infos.md)
+* [2024-02-20 - Banov](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2024-02-20-banov-mods-infos.md)
 
 ### Metrics
 
