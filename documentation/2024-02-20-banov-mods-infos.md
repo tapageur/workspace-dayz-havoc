@@ -21,6 +21,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [FieldShovelPlus](https://steamcommunity.com/sharedfiles/filedetails/?id=2114177429)
 * [MuchStuffPack](https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984)
 * [Survivor Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2918418331)
+* [ufcring](https://steamcommunity.com/sharedfiles/filedetails/?id=2642176717)
 
 ## Details by mods
 
@@ -123,6 +124,10 @@ As you can see from the screenshots, these doors are vanilla-style, allowing for
 Decoration items for the base building.
 
 * All placed kits can be dismantled by Screwdriver, Pliers or Hammers
+
+### ufcring
+
+UFC Ring
 
 ### Survivor Animations
 
