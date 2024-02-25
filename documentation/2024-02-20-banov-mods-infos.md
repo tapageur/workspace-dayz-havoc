@@ -125,10 +125,10 @@ Decoration items for the base building.
 
 * All placed kits can be dismantled by Screwdriver, Pliers or Hammers
 
-### ufcring
-
-UFC Ring
-
 ### Survivor Animations
 
 This mod is required for `DayZ-Bicycle` and it adds custom survivor animations (emotes/actions) including vehicles. Our goal is to provide the most wanted animations for characters and provide supporting animations for other mods like bikes, snowmobiles, helicopters, horses and more.
+
+### ufcring
+
+UFC Ring
