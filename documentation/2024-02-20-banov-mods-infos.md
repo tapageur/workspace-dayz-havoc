@@ -19,6 +19,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [Ear-Plugs](https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788)
 * [EvenMoreDoors](https://steamcommunity.com/sharedfiles/filedetails/?id=2488972914)
 * [FieldShovelPlus](https://steamcommunity.com/sharedfiles/filedetails/?id=2114177429)
+* [MuchFramework](https://steamcommunity.com/workshop/filedetails/?id=3171576913)
 * [MuchStuffPack](https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984)
 * [Survivor Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2918418331)
 * [ufcring](https://steamcommunity.com/sharedfiles/filedetails/?id=2642176717)
@@ -118,6 +119,10 @@ As you can see from the screenshots, these doors are vanilla-style, allowing for
 ### FieldShovelPlus
 
 > This mod brings back the vanilla Field Shovel with the addition of the "Dig out stash" action and now includes a new folding shovel!
+
+### MuchFramework
+
+This is required for MuchStuffPack
 
 ### MuchStuffPack
 
