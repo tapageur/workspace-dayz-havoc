@@ -1,6 +1,6 @@
 # Mods
 
-`@Ear-Plugs;@CF;@Community-Online-Tools;@Dabs Framework;@Autorun Mod;@DayZ-Expansion-Core;@DayZ-Expansion-Book;@DayZ-Expansion-Groups;@DayZ-Expansion-Name-Tags;@DayZ-Expansion-Navigation;@BetterStash;@FieldShovelPlus;@MuchStuffPack;@Code Lock;@Survivor Animations;@DayZ-Bicycle;@EvenMoreDoors;@Banov;@ufcring`
+`@Ear-Plugs;@CF;@Community-Online-Tools;@Dabs Framework;@Autorun Mod;@DayZ-Expansion-Core;@DayZ-Expansion-Book;@DayZ-Expansion-Groups;@DayZ-Expansion-Name-Tags;@DayZ-Expansion-Navigation;@BetterStash;@FieldShovelPlus;@MuchStuffPack;@MuchStuffPack;@Code Lock;@Survivor Animations;@DayZ-Bicycle;@EvenMoreDoors;@Banov;@ufcring`
 
 # Server Mods
 
