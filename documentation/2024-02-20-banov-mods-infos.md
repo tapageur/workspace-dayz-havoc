@@ -26,7 +26,6 @@ Here is the list of mods installed on the server and link to their respective pa
 * [MuchFramework](https://steamcommunity.com/workshop/filedetails/?id=3171576913)
 * [MuchStuffPack](https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984)
 * [Survivor Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2918418331)
-* [ufcring](https://steamcommunity.com/sharedfiles/filedetails/?id=2642176717)
 
 ## Details by mods
 
@@ -157,6 +156,3 @@ Decoration items for the base building.
 
 This mod is required for `DayZ-Bicycle` and it adds custom survivor animations (emotes/actions) including vehicles. Our goal is to provide the most wanted animations for characters and provide supporting animations for other mods like bikes, snowmobiles, helicopters, horses and more.
 
-### ufcring
-
-UFC Ring
