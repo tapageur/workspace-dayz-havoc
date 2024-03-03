@@ -11,11 +11,14 @@ Here is the list of mods installed on the server and link to their respective pa
 * [Community-Online-Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=1564026768)
 * [Dabs Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)
 * [DayZ-Bicycle](https://steamcommunity.com/sharedfiles/filedetails/?id=2971190303)
+* [DayZ-Expansion-Animations](https://steamcommunity.com/workshop/filedetails/?id=2793893086)
 * [DayZ-Expansion-Book](https://steamcommunity.com/sharedfiles/filedetails/?id=2572324799)
 * [DayZ-Expansion-Core](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785308)
 * [DayZ-Expansion-Groups](https://steamcommunity.com/sharedfiles/filedetails/?id=2792983364)
+* [DayZ-Expansion-Licensed](https://steamcommunity.com/workshop/filedetails/?id=2116157322)
 * [DayZ-Expansion-Name-Tags](https://steamcommunity.com/sharedfiles/filedetails/?id=2576460232)
 * [DayZ-Expansion-Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=2792984722)
+* [DayZ-Expansion-Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785437)
 * [Ear-Plugs](https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788)
 * [EvenMoreDoors](https://steamcommunity.com/sharedfiles/filedetails/?id=2488972914)
 * [FieldShovelPlus](https://steamcommunity.com/sharedfiles/filedetails/?id=2114177429)
@@ -69,6 +72,10 @@ It's required for the `DayZ Expansion` mods and other mods.
 
 Add the bicycle into the game.
 
+### DayZ-Expansion-Animations
+
+It's required for the `DayZ-Expansion-Vehicles` mods installed in this server.
+
 ### DayZ-Expansion-Book
 
 `DayZ Expansion Book` add into the game a virtual book which can be used by other mods to add more pages for various uses. It's required for the `DayZ Expansion Groups` mod.
@@ -84,6 +91,10 @@ It's required for the `DayZ Expansion` mods installed in this server.
 ### DayZ-Expansion-Groups
 
 Add the ability to create groups with your friends and it's used in combination with another mod, see `DayZ-Expansion-Navigation` for more details.
+
+### DayZ-Expansion-Licensed
+
+It's required for the `DayZ-Expansion-Vehicles` mods installed in this server.
 
 ### DayZ-Expansion-Name-Tags
 
@@ -105,6 +116,10 @@ Used in combination with `DayZ-Expansion-Groups`, it allow players to:
 | `M`         | Toggle on/off the map |
 | `Delete`    | Remove the ping location |
 | `*` (keypad)| Toggle on/off display in-game markers |
+
+### DayZ-Expansion-Vehicles
+
+More vehicules options.
 
 ### Ear-Plugs
 
