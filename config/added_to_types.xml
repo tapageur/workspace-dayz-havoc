@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-	<!-- Start: BetterStash -->
+    <!-- Start: BetterStash -->
     <type name="PlasticBarrel">
       <nominal>16</nominal>
       <min>8</min>
@@ -14,7 +14,7 @@
       <value />
       <category name="containers" />
       <tag name="industrial" />
-        <tag name="civilian" />
+      <tag name="civilian" />
     </type>
     <type name="PlasticBarrelStash">
       <nominal>0</nominal>
@@ -72,7 +72,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<!-- End: CodeLock -->
+    <!-- End: CodeLock -->
     <!-- Start: DayZ-Bicycle -->  
     <type name="Old_Bike">
 	<nominal>2</nominal>
@@ -281,7 +281,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <!-- End EvenMoreDoors -->
-	<!-- Start: MuchStuffPack -->
+    <!-- Start: MuchStuffPack -->
     <!-- Melee -->
     <type name="Msp_VorpalKnife">
         <nominal>1</nominal>
