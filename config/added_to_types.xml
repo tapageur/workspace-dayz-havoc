@@ -75,7 +75,7 @@
     <!-- End: CodeLock -->
     <!-- Start: DayZ-Bicycle -->  
     <type name="Old_Bike">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>3888000</lifetime>
 	<restock>1800</restock>
 	<min>0</min>
@@ -85,7 +85,7 @@
 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Old_Bike_White">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>3888000</lifetime>
 	<restock>1800</restock>
 	<min>0</min>
@@ -95,7 +95,7 @@
 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Old_Bike_Red">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>3888000</lifetime>
 	<restock>1800</restock>
 	<min>0</min>
@@ -105,7 +105,7 @@
 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Old_Bike_Green">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>3888000</lifetime>
 	<restock>1800</restock>
 	<min>0</min>
@@ -115,7 +115,7 @@
 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Old_Bike_Blue">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>3888000</lifetime>
 	<restock>1800</restock>
 	<min>0</min>
@@ -125,7 +125,7 @@
 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Old_Bike_Pink">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>3888000</lifetime>
 	<restock>1800</restock>
 	<min>0</min>
@@ -135,7 +135,7 @@
 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Lady_Bicycle">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>3888000</lifetime>
 	<restock>1800</restock>
 	<min>0</min>
@@ -145,7 +145,7 @@
 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Lady_Bicycle_Purple">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>3888000</lifetime>
 	<restock>1800</restock>
 	<min>0</min>
@@ -155,7 +155,7 @@
 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="bicycle_wheel">
-	<nominal>8</nominal>
+	<nominal>0</nominal>
 	<lifetime>432001</lifetime>
 	<restock>216001</restock>
 	<min>0</min>
@@ -169,7 +169,7 @@
 	<usage name="Industrial"/>
     </type>
     <type name="ladybicycle_wheel">
-	<nominal>8</nominal>
+	<nominal>0</nominal>
 	<lifetime>432001</lifetime>
 	<restock>216001</restock>
 	<min>0</min>
@@ -183,7 +183,7 @@
 	<usage name="Industrial"/>
     </type>
     <type name="ItemOld_Bike">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>28800</lifetime>
 	<restock>14400</restock>
 	<min>0</min>
@@ -193,7 +193,7 @@
 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ItemOld_Bike_White">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>28800</lifetime>
 	<restock>14400</restock>
 	<min>0</min>
@@ -203,7 +203,7 @@
 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ItemOld_Bike_Red">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>28800</lifetime>
 	<restock>14400</restock>
 	<min>0</min>
@@ -213,7 +213,7 @@
 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ItemOld_Bike_Green">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>28800</lifetime>
 	<restock>14400</restock>
 	<min>0</min>
@@ -223,7 +223,7 @@
 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ItemOld_Bike_Blue">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>28800</lifetime>
 	<restock>14400</restock>
 	<min>0</min>
@@ -233,7 +233,7 @@
 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ItemOld_Bike_Pink">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>28800</lifetime>
 	<restock>14400</restock>
 	<min>0</min>
@@ -243,7 +243,7 @@
 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ItemLady_Bicycle">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>28800</lifetime>
 	<restock>14400</restock>
 	<min>0</min>
@@ -253,7 +253,7 @@
 	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ItemLady_Bicycle_Purple">
-	<nominal>2</nominal>
+	<nominal>0</nominal>
 	<lifetime>28800</lifetime>
 	<restock>14400</restock>
 	<min>0</min>
