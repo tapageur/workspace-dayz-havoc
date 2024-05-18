@@ -20,6 +20,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [Ear-Plugs](https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788)
 * [FieldShovelPlus](https://steamcommunity.com/sharedfiles/filedetails/?id=2114177429)
 * [Iztek](https://steamcommunity.com/sharedfiles/filedetails/?id=2978912938)
+* [Iztek_Zarge](https://steamcommunity.com/sharedfiles/filedetails/?id=2978914794)
 * [MuchFramework](https://steamcommunity.com/workshop/filedetails/?id=3171576913)
 * [MuchStuffPack](https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984)
 * [Survivor Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2918418331)
