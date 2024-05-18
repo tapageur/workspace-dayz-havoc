@@ -1,4 +1,4 @@
-# 2024-02-11 - Chernarus - Mods Informations
+# 2023-05-11 - Banov - Mods Informations
 
 ## Listing
 
@@ -7,17 +7,22 @@ Here is the list of mods installed on the server and link to their respective pa
 * [Autorun Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2313173630)
 * [BetterStash](https://steamcommunity.com/sharedfiles/filedetails/?id=2710385029)
 * [CF](https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036)
-* [Code Lock](https://steamcommunity.com/sharedfiles/filedetails/?id=1646187754)
 * [Community-Online-Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=1564026768)
 * [Dabs Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)
+* [DayZ-Expansion-Animations](https://steamcommunity.com/workshop/filedetails/?id=2793893086)
 * [DayZ-Expansion-Book](https://steamcommunity.com/sharedfiles/filedetails/?id=2572324799)
 * [DayZ-Expansion-Core](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785308)
 * [DayZ-Expansion-Groups](https://steamcommunity.com/sharedfiles/filedetails/?id=2792983364)
+* [DayZ-Expansion-Licensed](https://steamcommunity.com/workshop/filedetails/?id=2116157322)
 * [DayZ-Expansion-Name-Tags](https://steamcommunity.com/sharedfiles/filedetails/?id=2576460232)
 * [DayZ-Expansion-Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=2792984722)
+* [DayZ-Expansion-Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785437)
 * [Ear-Plugs](https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788)
 * [FieldShovelPlus](https://steamcommunity.com/sharedfiles/filedetails/?id=2114177429)
+* [Iztek](https://steamcommunity.com/sharedfiles/filedetails/?id=2978912938)
+* [MuchFramework](https://steamcommunity.com/workshop/filedetails/?id=3171576913)
 * [MuchStuffPack](https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984)
+* [Survivor Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2918418331)
 
 ## Details by mods
 
@@ -41,10 +46,6 @@ This section will document the details about the mods, what it does, how to use 
 * `Community Framework` mod is required for a lot of mods and is required to be installed on a server fresh wipe. 
 * It's required for the `DayZ Expansion` mods.
 
-### Code Lock
-
-Code Lock is aimed at simplifying the base combination lock. No longer will you have to scramble to lock a gate that gives access to your base.
-
 ### Community-Online-Tools
 
 This [link](https://pingperfect.com/index.php/knowledgebase/400/DayZ--How-To-Install-Community-Online-Tools-and-CF-Admin-Tools.html) helped me figured it out.
@@ -59,6 +60,10 @@ This [link](https://pingperfect.com/index.php/knowledgebase/400/DayZ--How-To-Ins
 ### Dabs Framework
 
 It's required for the `DayZ Expansion` mods and other mods.
+
+### DayZ-Expansion-Animations
+
+It's required for the `DayZ-Expansion-Vehicles` mods installed in this server.
 
 ### DayZ-Expansion-Book
 
@@ -75,6 +80,10 @@ It's required for the `DayZ Expansion` mods installed in this server.
 ### DayZ-Expansion-Groups
 
 Add the ability to create groups with your friends and it's used in combination with another mod, see `DayZ-Expansion-Navigation` for more details.
+
+### DayZ-Expansion-Licensed
+
+It's required for the `DayZ-Expansion-Vehicles` mods installed in this server.
 
 ### DayZ-Expansion-Name-Tags
 
@@ -97,6 +106,10 @@ Used in combination with `DayZ-Expansion-Groups`, it allow players to:
 | `Delete`    | Remove the ping location |
 | `*` (keypad)| Toggle on/off display in-game markers |
 
+### DayZ-Expansion-Vehicles
+
+More vehicules options.
+
 ### Ear-Plugs
 
 | Key binding | Description |
@@ -107,8 +120,24 @@ Used in combination with `DayZ-Expansion-Groups`, it allow players to:
 
 > This mod brings back the vanilla Field Shovel with the addition of the "Dig out stash" action and now includes a new folding shovel!
 
+### Iztek
+
+This is the mod for the map.
+
+### Iztek_Zarge
+
+This is required for the Iztek map mod.
+
+### MuchFramework
+
+This is required for MuchStuffPack
+
 ### MuchStuffPack
 
 Decoration items for the base building.
 
 * All placed kits can be dismantled by Screwdriver, Pliers or Hammers
+
+### Survivor Animations
+
+This mod is required for `DayZ-Bicycle` and it adds custom survivor animations (emotes/actions) including vehicles. Our goal is to provide the most wanted animations for characters and provide supporting animations for other mods like bikes, snowmobiles, helicopters, horses and more.

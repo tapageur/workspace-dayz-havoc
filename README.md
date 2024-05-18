@@ -24,6 +24,7 @@ We use the [HostHavoc](https://hosthavoc.com/) gaming service to run our server.
 * [2024-02-11 - Chernarus](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2024-02-11-chernarus-mods-infos.md) testing phase
 * [2024-02-14 - Esseker](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2024-02-14-esseker-mods-infos.md)
 * [2024-02-20 - Banov](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2024-02-20-banov-mods-infos.md)
+* [2024-05-18 - Iztek](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2024-05-18-iztek-mods-infos.md)
 
 ### Metrics
 
@@ -39,7 +40,7 @@ Server ain't free so any contribution to keep it running would be appreciated.
 
 * [Config](https://github.com/tapageur/workspace-dayz-havoc/tree/main/config)
 * [Rules](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/rules.md)
-* [Mods](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2024-02-11-chernarus-mods-infos.md)
+* [Mods](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2024-05-18-iztek-mods-infos.md)
   * [Mods - Keybinding](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/mods-keybinding.md)
 * [Tools](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/tools.md)
 * [Todos](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/todos.md)
