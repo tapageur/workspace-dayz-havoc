@@ -24,19 +24,27 @@
             "Rules": [
                 {
                     "RuleParagraph": "2.1",
-                    "RuleText": "We are a community that encourage players interactions and different degrees of collaboration."
+                    "RuleText": "No kill on sight. We are a community that encourage players interactions and different degrees of collaboration."
                 }
             ]
         },
         {
-            "CategoryName": "Languages",
+            "CategoryName": "Other Guidelines",
             "Rules": [
                 {
                     "RuleParagraph": "3.1",
-                    "RuleText": "We want to be able to moderate (if needed) the communication in-game and over Discord to resolve possible issue and conflicts. For this reason the communications are accepted in french and english only.."
-                }
+                    "RuleText": "Language: We want to be able to moderate (if needed) the communication in-game and over Discord to resolve possible issue and conflicts. For this reason the communications are encourage in french and english usage on the server."
+                },
+                {
+                    "RuleParagraph": "3.2",
+                    "RuleText": "Player Names: We encourage players to set a personalized in-game name other than Survivor to ease the interaction and avoid having multiple player named Survivor."
+                },
+                {
+                    "RuleParagraph": "3.3",
+                    "RuleText": "Report: If you feel you are the victim of someone breaking the rules, feel free to report it to the Discord with as much information and we will see what can be done based on the situation."
+                }                
             ]
-        }
+        }        
     ],
     "DisplayServerSettingsInServerInfoTab": 1,
     "SettingCategories": [
