@@ -8,7 +8,7 @@ Simple enough, be respectful to other players. We all know the basic rules of ne
 
 We are a community that encourage players interactions and different degrees of collaboration.
 
-## Languages
+## Other Guidelines
 
 We want to be able to moderate (if needed) the communication in-game and over Discord to resolve possible issue and conflicts. For this reason the communications are accepted in french and english only.
 
