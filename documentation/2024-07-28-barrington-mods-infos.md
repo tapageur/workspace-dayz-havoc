@@ -143,6 +143,6 @@ This mod is required for `DayZ-Bicycle` and it adds custom survivor animations (
 
 This mod adds the ability for zombies/infected to bash open doors.
 
-* Locked can't be knock down by zombies.
+* Locked doors can't be knock down by zombies.
 * Zombies can open unlocked door with 4 knocks, they pause for 3 seconds between each knock. 
 * Military zombies required 3 knock to open unlocked door.
