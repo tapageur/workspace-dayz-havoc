@@ -1,12 +1,11 @@
-# 2024-07-18 - Barrington - Mods Informations
+# 2024-09-21 - Alteria - Mods Informations
 
 ## Listing
 
 Here is the list of mods installed on the server and link to their respective page in Steam Workshop:
 
+* [Alteria](https://steamcommunity.com/sharedfiles/filedetails/?id=3296994216)
 * [Autorun Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2313173630)
-* [Barrington](https://steamcommunity.com/sharedfiles/filedetails/?id=2715585406)
-* [Barrington_DMs](https://steamcommunity.com/sharedfiles/filedetails/?id=3029854624)
 * [BetterStash](https://steamcommunity.com/sharedfiles/filedetails/?id=2710385029)
 * [CF](https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036)
 * [Community-Online-Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=1564026768)
@@ -20,6 +19,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [DayZ-Expansion-Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=2792984722)
 * [DayZ-Expansion-Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785437)
 * [Ear-Plugs](https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788)
+* [GSC Gameworld Assets (JMC Edition)](https://steamcommunity.com/workshop/filedetails/?id=3154500253)
 * [MuchFramework](https://steamcommunity.com/workshop/filedetails/?id=3171576913)
 * [MuchStuffPack](https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984)
 * [Survivor Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2918418331)
@@ -27,6 +27,10 @@ Here is the list of mods installed on the server and link to their respective pa
 ## Details by mods
 
 This section will document the details about the mods, what it does, how to use it and link to their workshop page for more informations
+
+### Alteria
+
+This is the mod for the map.
 
 ### Autorun Mod
 
@@ -37,13 +41,6 @@ This section will document the details about the mods, what it does, how to use 
 | `Ctrl` (Double-click)| Walking (during action) |
 | `Shift`     | Return to sprint (during action) |
 
-### Barrington
-
-This is the mod for the map.
-
-### Barrington_DMs
-
-This is required for the Barrington map mod.
 
 ### BetterStash
 
@@ -123,6 +120,10 @@ More vehicules options.
 | Key binding | Description |
 |-------------|-------------|
 | `N`         | Toggle on/off the ear plugs |
+
+### GSC Gameworld Assets (JMC Edition)
+
+This is required for the Alteria map mod.
 
 ### MuchFramework
 

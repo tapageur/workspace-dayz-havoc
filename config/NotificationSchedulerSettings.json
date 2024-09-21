@@ -21,7 +21,7 @@
             "Text": "Press B to open the in-game book. You'll find information about the community, the server and how to reach our Discord.",
             "Icon": "Info",
             "Color": ""
-        },
+        },        
         {
             "Hour": 6,
             "Minute": 0,
@@ -39,7 +39,34 @@
             "Text": "Press B to open the in-game book. You'll find information about the community, the server and how to reach our Discord.",
             "Icon": "Info",
             "Color": ""
-        },        
+        },
+        {
+            "Hour": 10,
+            "Minute": 50,
+            "Second": 0,
+            "Title": "Restart",
+            "Text": "Server restarting in 10 minutes...",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 10,
+            "Minute": 55,
+            "Second": 0,
+            "Title": "Restart",
+            "Text": "Server restarting in 5 minutes...",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 10,
+            "Minute": 59,
+            "Second": 0,
+            "Title": "Restart",
+            "Text": "Server restarting in 1 minute, HURRY UP!!",
+            "Icon": "Info",
+            "Color": ""
+        },     
         {
             "Hour": 12,
             "Minute": 0,
@@ -48,7 +75,7 @@
             "Text": "You can join our Discord at: https://discord.gg/E9xUuX9RSJ",
             "Icon": "Info",
             "Color": ""
-        },
+        },           
         {
             "Hour": 15,
             "Minute": 0,
@@ -75,6 +102,33 @@
             "Text": "Press B to open the in-game book. You'll find information about the community, the server and how to reach our Discord.",
             "Icon": "Info",
             "Color": ""
-        }
+        },
+        {
+            "Hour": 22,
+            "Minute": 50,
+            "Second": 0,
+            "Title": "Restart",
+            "Text": "Server restarting in 10 minutes...",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 22,
+            "Minute": 55,
+            "Second": 0,
+            "Title": "Restart",
+            "Text": "Server restarting in 5 minutes...",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 22,
+            "Minute": 59,
+            "Second": 0,
+            "Title": "Restart",
+            "Text": "Server restarting in 1 minute, HURRY UP!!",
+            "Icon": "Info",
+            "Color": ""
+        }      
     ]
 }
