@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <!-- Displayed once and 2 minutes after player connection -->
+    <message>
+        <delay>2</delay>
+        <onconnect>1</onconnect>
+        <text>Please read the rules in the in-game book (press B), be respectful to other players and have fun!</text>
+    </message>  
+</messages>
