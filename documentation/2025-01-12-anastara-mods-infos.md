@@ -20,6 +20,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [DayZ-Expansion-Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=2792984722)
 * [DayZ-Expansion-Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785437)
 * [Ear-Plugs](https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788)
+* [Motorhome (FREE TO USE)](https://steamcommunity.com/sharedfiles/filedetails/?id=3313724632)
 * [MuchFramework](https://steamcommunity.com/workshop/filedetails/?id=3171576913)
 * [MuchStuffPack](https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984)
 * [Solar Panel Power System](https://steamcommunity.com/sharedfiles/filedetails/?id=2534155979)
@@ -125,6 +126,10 @@ More vehicules options.
 | Key binding | Description |
 |-------------|-------------|
 | `N`         | Toggle on/off the ear plugs |
+
+### Motorhome (FREE TO USE)
+
+A Motorhome vehicule.
 
 ### MuchFramework
 
