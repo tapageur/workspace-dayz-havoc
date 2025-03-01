@@ -1,11 +1,9 @@
-# 2025-01-12 - Anastara - Mods Informations
+# 2025-03-01 - Livonia - Mods Informations
 
 ## Listing
 
 Here is the list of mods installed on the server and link to their respective page in Steam Workshop:
 
-* [Anastara](https://steamcommunity.com/sharedfiles/filedetails/?id=2973953648)
-* [Anastara Server Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3076836722)
 * [Autorun Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2313173630)
 * [BetterStash](https://steamcommunity.com/sharedfiles/filedetails/?id=2710385029)
 * [CF](https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036)
@@ -20,25 +18,14 @@ Here is the list of mods installed on the server and link to their respective pa
 * [DayZ-Expansion-Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=2792984722)
 * [DayZ-Expansion-Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785437)
 * [Ear-Plugs](https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788)
-* [Hunter Mega Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3069507753)
-* [Motorhome (FREE TO USE)](https://steamcommunity.com/sharedfiles/filedetails/?id=3313724632)
 * [MuchFramework](https://steamcommunity.com/workshop/filedetails/?id=3171576913)
 * [MuchStuffPack](https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984)
 * [Solar Panel Power System](https://steamcommunity.com/sharedfiles/filedetails/?id=2534155979)
 * [Survivor Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2918418331)
-* [WindstridesClothingPack](https://steamcommunity.com/sharedfiles/filedetails/?id=1797720064)
 
 ## Details by mods
 
 This section will document the details about the mods, what it does, how to use it and link to their workshop page for more informations.
-
-### Anastara
-
-This is the mod for the map.
-
-### Anastara Server Pack
-
-This is required for the Anastara map mod.
 
 ### Autorun Mod
 
@@ -128,15 +115,6 @@ More vehicules options.
 |-------------|-------------|
 | `N`         | Toggle on/off the ear plugs |
 
-
-### Hunter Mega Pack
-
-Added for the recycler.
-
-### Motorhome (FREE TO USE)
-
-A Motorhome vehicule.
-
 ### MuchFramework
 
 This is required for MuchStuffPack
@@ -154,7 +132,3 @@ Solar panel system used at the community base.
 ### Survivor Animations
 
 This mod was required for `DayZ-Bicycle` and it adds custom survivor animations (emotes/actions) including vehicles. Our goal is to provide the most wanted animations for characters and provide supporting animations for other mods like bikes, snowmobiles, helicopters, horses and more.
-
-### WindstridesClothingPack
-
-This is required for the Anastara map mod.

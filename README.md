@@ -16,6 +16,7 @@ We use the [HostHavoc](https://hosthavoc.com/) gaming service to run our server.
 
 ### History
 
+* [2025-03-01 - Livonia](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2025-03-01-livonia-mods-infos.md)
 * [2025-01-12 - Anastara](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2025-01-12-anastara-mods-infos.md)
 * [2024-11-15 - Mystery Island](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2024-11-15-mystery-island-mods-infos.md)
 * [2024-09-21 - Alteria](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2024-09-21-alteria-mods-infos.md)
@@ -44,7 +45,7 @@ Server ain't free so any contribution to keep it running would be appreciated.
 
 * [Config](https://github.com/tapageur/workspace-dayz-havoc/tree/main/config)
 * [Rules](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/rules.md)
-* [Mods](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2025-01-12-anastara-mods-infos.md)
+* [Mods](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/2025-03-01-livonia-mods-infos.md)
   * [Mods - Keybinding](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/mods-keybinding.md)
 * [Tools](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/tools.md)
 * [Todos](https://github.com/tapageur/workspace-dayz-havoc/blob/main/documentation/todos.md)
