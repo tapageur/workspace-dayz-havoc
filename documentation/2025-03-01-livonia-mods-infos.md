@@ -22,6 +22,10 @@ Here is the list of mods installed on the server and link to their respective pa
 * [MuchStuffPack](https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984)
 * [Solar Panel Power System](https://steamcommunity.com/sharedfiles/filedetails/?id=2534155979)
 * [Survivor Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2918418331)
+* [TerjeCore](https://steamcommunity.com/sharedfiles/filedetails/?id=3359676785)
+* [TerjeSkills](https://steamcommunity.com/sharedfiles/filedetails/?id=3359678303)
+* [TerjeCompatibilityCOT](https://steamcommunity.com/sharedfiles/filedetails/?id=3359679668)
+
 
 ## Details by mods
 
@@ -117,7 +121,7 @@ More vehicules options.
 
 ### MuchFramework
 
-This is required for MuchStuffPack
+This is required for MuchStuffPack.
 
 ### MuchStuffPack
 
@@ -132,3 +136,15 @@ Solar panel system used at the community base.
 ### Survivor Animations
 
 This mod was required for `DayZ-Bicycle` and it adds custom survivor animations (emotes/actions) including vehicles. Our goal is to provide the most wanted animations for characters and provide supporting animations for other mods like bikes, snowmobiles, helicopters, horses and more.
+
+### TerjeCore
+
+This is required for TerjeSkills.
+
+### TerjeSkills
+
+A skill system that allows your character to progress in different directions, enhancing their survivability and effectiveness.
+
+### TerjeCompatibilityCOT
+
+Admin compatibility tools for TerjeSkills.
