@@ -1,0 +1,31 @@
+{
+    "m_Version": 2,
+    "NewsFeedTexts": [
+        {
+            "m_Title": "DayZ QC (Canada) - Collaborative | Chiemsee",
+            "m_Text": "We are a small community of friends that loves that game and want to explore and experiment at our own pace without the pressure of always checking our back for other players."
+        }
+    ],
+    "NewsFeedLinks": [
+        {
+            "m_Label": "Discord",
+            "m_Icon": "set:expansion_iconset image:icon_discord",
+            "m_URL": "https://discord.gg/E9xUuX9RSJ"
+        },
+        {
+            "m_Label": "GitHub",
+            "m_Icon": "set:expansion_iconset image:icon_github",
+            "m_URL": "https://github.com/tapageur/workspace-dayz-havoc"
+        },
+        {
+            "m_Label": "BattleMetrics",
+            "m_Icon": "set:expansion_iconset image:icon_github",
+            "m_URL": "https://www.battlemetrics.com/servers/dayz/26264670"
+        },
+        {
+            "m_Label": "Paypal",
+            "m_Icon": "set:expansion_iconset image:icon_paypal",
+            "m_URL": "mailto:paypal@tapageur.org"
+        }       
+    ]
+}

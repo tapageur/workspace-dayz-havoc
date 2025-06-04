@@ -39,34 +39,7 @@
             "Text": "Press B to open the in-game book. You'll find information about the community, the server and how to reach our Discord.",
             "Icon": "Info",
             "Color": ""
-        },
-        {
-            "Hour": 10,
-            "Minute": 50,
-            "Second": 0,
-            "Title": "Restart",
-            "Text": "Server restarting in 10 minutes...",
-            "Icon": "Info",
-            "Color": ""
-        },
-        {
-            "Hour": 10,
-            "Minute": 55,
-            "Second": 0,
-            "Title": "Restart",
-            "Text": "Server restarting in 5 minutes...",
-            "Icon": "Info",
-            "Color": ""
-        },
-        {
-            "Hour": 10,
-            "Minute": 59,
-            "Second": 0,
-            "Title": "Restart",
-            "Text": "Server restarting in 1 minute, HURRY UP!!",
-            "Icon": "Info",
-            "Color": ""
-        },     
+        },  
         {
             "Hour": 12,
             "Minute": 0,
