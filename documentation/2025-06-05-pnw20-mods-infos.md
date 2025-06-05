@@ -1,4 +1,4 @@
-# 2025-06-04 - Chiemsee - Mods Informations
+# 2025-06-05 - PNW 2.0 - Mods Informations
 
 ## Listing
 
@@ -10,6 +10,7 @@ Here is the list of mods installed on the server and link to their respective pa
 * [Chiemsee](https://steamcommunity.com/workshop/filedetails/?id=1580589252)
 * [Community-Online-Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=1564026768)
 * [Dabs Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)
+* [DayZ-Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222)
 * [DayZ-Expansion-Animations](https://steamcommunity.com/workshop/filedetails/?id=2793893086)
 * [DayZ-Expansion-Book](https://steamcommunity.com/sharedfiles/filedetails/?id=2572324799)
 * [DayZ-Expansion-Core](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785308)
@@ -21,12 +22,13 @@ Here is the list of mods installed on the server and link to their respective pa
 * [Ear-Plugs](https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788)
 * [MuchFramework](https://steamcommunity.com/workshop/filedetails/?id=3171576913)
 * [MuchStuffPack](https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984)
+* [MSP_PatchFix](https://steamcommunity.com/sharedfiles/filedetails/?id=3492739269)
+* [PNW 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=3290318225)
 * [Solar Panel Power System](https://steamcommunity.com/sharedfiles/filedetails/?id=2534155979)
 * [Survivor Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2918418331)
 * [TerjeCore](https://steamcommunity.com/sharedfiles/filedetails/?id=3359676785)
 * [TerjeSkills](https://steamcommunity.com/sharedfiles/filedetails/?id=3359678303)
 * [TerjeCompatibilityCOT](https://steamcommunity.com/sharedfiles/filedetails/?id=3359679668)
-
 
 ## Details by mods
 
@@ -50,10 +52,6 @@ This section will document the details about the mods, what it does, how to use 
 * `Community Framework` mod is required for a lot of mods and is required to be installed on a server fresh wipe. 
 * It's required for the `DayZ Expansion` mods.
 
-### Chiemsee
-
-This is the mod for the map.
-
 ### Community-Online-Tools
 
 This [link](https://pingperfect.com/index.php/knowledgebase/400/DayZ--How-To-Install-Community-Online-Tools-and-CF-Admin-Tools.html) helped me figured it out.
@@ -72,6 +70,10 @@ It's required for the `DayZ Expansion` mods and other mods.
 ### DayZ-Expansion-Animations
 
 It's required for the `DayZ-Expansion-Vehicles` mods installed in this server.
+
+### DayZ-Expansion
+
+Base mod of `DayZ Expansion` mods installed in this server.
 
 ### DayZ-Expansion-Book
 
@@ -133,6 +135,14 @@ This is required for MuchStuffPack.
 Decoration items for the base building.
 
 * All placed kits can be dismantled by Screwdriver, Pliers or Hammers
+
+### MSP_PatchFix
+
+Compatibility fix for the `MuchStuffPack` on `DayZ` version 1.28.
+
+### PNW 2.0
+
+This is the mod for the map.
 
 ### Solar Panel Power System
 

@@ -22,7 +22,7 @@
 
 ## Chiemsee
 
-`@Ear-Plugs;@CF;@Community-Online-Tools;@Dabs Framework;@Autorun Mod;@DayZ-Expansion-Core;@DayZ-Expansion;@DayZ-Expansion-Book;@DayZ-Expansion-Groups;@DayZ-Expansion-Name-Tags;@DayZ-Expansion-Navigation;@DayZ-Expansion-Animations;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Spawn-Selection;@BetterStash;@Solar Panel Power System;@Code Lock;@MuchStuffPack_Fix [128];@MuchFramework;@MuchStuffPack;@TerjeCore;@TerjeSkills;@TerjeCompatibilityCOT;@Chiemsee;`
+`@Ear-Plugs;@CF;@Community-Online-Tools;@Dabs Framework;@Autorun Mod;@DayZ-Expansion-Core;@DayZ-Expansion-Book;@DayZ-Expansion-Groups;@DayZ-Expansion-Name-Tags;@DayZ-Expansion-Navigation;@DayZ-Expansion-Animations;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Spawn-Selection;@BetterStash;@Solar Panel Power System;@Code Lock;@MuchFramework;@MuchStuffPack;@MSP_PatchFix;@TerjeCore;@TerjeSkills;@TerjeCompatibilityCOT;@SpawnerBubaku;@Chiemsee;`
 
 ## Iztek
 
@@ -36,6 +36,7 @@
 
 `@Ear-Plugs;@CF;@Community-Online-Tools;@Dabs Framework;@Autorun Mod;@DayZ-Expansion-Core;@DayZ-Expansion-Book;@DayZ-Expansion-Groups;@DayZ-Expansion-Name-Tags;@DayZ-Expansion-Navigation;@DayZ-Expansion-Animations;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@BetterStash;@MuchFramework;@MuchStuffPack;@Code Lock;@Mystery Island;`
 
-# Server Mods
 
-`@Ear-Plugs`
+## PNW 2.0
+
+`@Ear-Plugs;@CF;@Community-Online-Tools;@Dabs Framework;@Autorun Mod;@DayZ-Expansion-Core;@DayZ-Expansion;@DayZ-Expansion-Book;@DayZ-Expansion-Groups;@DayZ-Expansion-Name-Tags;@DayZ-Expansion-Navigation;@DayZ-Expansion-Animations;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@BetterStash;@Solar Panel Power System;@Code Lock;@MuchFramework;@MuchStuffPack;@MSP_PatchFix;@TerjeCore;@TerjeSkills;@TerjeCompatibilityCOT;@PNW 20;`
