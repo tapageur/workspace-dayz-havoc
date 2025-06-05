@@ -7,7 +7,6 @@ Here is the list of mods installed on the server and link to their respective pa
 * [Autorun Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2313173630)
 * [BetterStash](https://steamcommunity.com/sharedfiles/filedetails/?id=2710385029)
 * [CF](https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036)
-* [Chiemsee](https://steamcommunity.com/workshop/filedetails/?id=1580589252)
 * [Community-Online-Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=1564026768)
 * [Dabs Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)
 * [DayZ-Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222)
